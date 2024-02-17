@@ -1,7 +1,7 @@
 [Webpage AMTHome]:https://ancientmajiktech.square.site/
 [Webpage AMTSupport]:https://ancientmajiktech.square.site/support-systems
 
-[Discord Invite]:link
+[Discord Invite]:https://discord.gg/8P2kvwm
 
 [Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
 [Page TutHome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Tutorials/TutorialsHome.md
