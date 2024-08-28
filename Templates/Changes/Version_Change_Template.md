@@ -80,6 +80,8 @@ The following is a list of the new systems along with the number of starting fea
 
 The following is a list of the systems that had changes applied to them including changes to thier features.
 
+- Changed Systems
+
 ### Content
 
 The following is a list of the new content added to the project and if the given content is a Design Prototype or true data

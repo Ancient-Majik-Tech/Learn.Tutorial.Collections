@@ -37,10 +37,23 @@ Welcome to the [System Name] System's documentation page. This page is dedicated
 	- SystemID:
 	- IDPiece:
 	- Version:
+	- Implimented Version: [Project Version Added]
+	- Last Changed: [Last Changed Project Version]
+	- Tags
 
 [System Desc]
 
 ### Features
 
-|Feature Name|Feature ID|Status|Version|Desc|
-|:---|:---|:---|:---|:---|
+- Features
+
+### [Feature Name] Feature
+
+[Feature Desc]
+
+- Details
+	- Status: [Active|Planned]
+	- Version: V 1.0
+	- FeatureID: [FeatureID]
+	- Impliment System Version: [Implimented System Version]
+	- Last Change [Last System Version Changed]

@@ -3,49 +3,65 @@
 
 [Discord Invite]:https://discord.gg/8P2kvwm
 
-[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
-[Page TutHome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Tutorials/TutorialsHome.md
-[Page Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
-[Page PackagesHome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Packages/PackagesHome.md
-[Page Changelog]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
+[Page Project Home]:link
+[Page Learn Home]:link
+[Page Changes Home]:link
+
+[Page DesignLayout TutCollect]:link 
+[Page DesignLayout RCP]:link
+[Page DesignLayout ContributeRewards]:link
 
 [Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#welcome-to-realms-tutorial-collections
-[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#features
+[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#key-implimented-features
+[Sec PlannedFeatures]:link
 [Sec FinalNotes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#final-notes
 
-# Realms Tutorial Collections
+# Realms Tutorial Collections "Main Project"
 
-This project is dedicated to Ancient Majik Technologies LLC's projects and making them easier for our users and staff to be more organized.
+Welcome to the Wiki Home page for Realms Tutorial Collections.
+
+## Collection Index
+
+- Home (You are Here)
+	- [Project][Page Project Home]
+	- [Learning][Page Learn Home]
+	- [Changes][Page Changes Home]
 
 ## Page Index
 
 - Page
 	- [Welcome][Sec Welcome]
-		- [Features][Sec Features]
+		- [Key Features][Sec Features]
+		- [Planned Features][Sec PlannedFeatures]
 		- [Final Notes][Sec FinalNotes]
 
-## Quick Navi
+### Welcome to Realms Tutorial Collections
 
-- Project
-	- [Tutorials][Page TutHome]
-	- [Project Details][Page Details]
-		- [Tutorial Packages][Page PackagesHome]
-	- [Change Log][Page ChangeLog]
+Welcome to AMT's [Realms Tutorial Collection][Page DesignLayout TutCollect] project [Realms Tutorial Collections][Page Project Home] designed to provide a clean and easy to understand format for designing and maintaining documenation for all our projects.
 
-## Welcome to Realms Tutorial Collections
+Our Goal with Realms Tutorial Collections is to provide users, volunteer staff and staff alike with clear and easy to understand details around each project.
 
-Welcome to the AMT LLC's Project documentation for our Learning Project for Realms Tutorial Collections. This project is designed to provide our users and staff the ability to reduce the learning curve for our projects.
+Our long term hope is that as we grow people will continue to develop thier own products to register to be place on a planned project we have of Realms Shop which will allow users to spend [Realms Contribution Points][Page DesignLayout RCP] which can be purchased or earned through our [Contribution Rewards System][Page DesignLayout ContributeRewards].
 
-This is to make it easier for projects and works to be submitted to become official third party projects. While also making it so almost anyone with the motiviation can pick up our projects and work with them. We do this in our attempt to openly promote Self Motivated Learning which is how our company was founded. 
+For a more in-depth view of Realms Tutorial Collections Project please check the [Project][Page Project Home] for more details.
 
 
-## Features
+### Key Implimented Features
 
-This Project Documentation comes with some extra goodies, this are provided so users can understand the work going into this project, but these goodies are also provided as part of each of the Tutorial Packages which are provided for our other works.
+|Feature Name|Short desc|
+|:---|:---|
+|Tutorial Collection Tutorials|This feature provide the ability to better understand making wiki's by providing clear walkthroughts|
+|Tutorial Collection Templates|This feature provides templates designed to reduce the work in general|
+|Design Layouts|This feature provides clear layouts of general information used or expected as part of Realms Projects|
 
-These features include the current project details for each project, Change logs, tutorials and other information relating to a given project. For more check the [project page][Page Details] for this project.
+### Key Planned Features
 
-## Final Notes
+|Feature Name|Short desc|
+|:---|:---|
+|Wiki Template Packages|This feature will provide a easy to use packages for simplifing some of the more redundant tasks|
+
+
+### Final Notes
 
 First we would like to thank you for your interest. If you would like to learn more about AMT LLC you can check out [our website][Webpage AMTHome]. If you like what we do and would like to support us you can check our [support][Webpage AMTSupport] which comes with its own benefits.
 

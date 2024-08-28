@@ -16,8 +16,11 @@
 [Sec Content]:[page]#content-changes
 [Sec Fixes]:[page]#fixes
 
+[DL Proj]:link
 
-# Realms Tutorial Collections: "[Project Name]" [ Changes - [version] ]
+[Sys Changes]:link
+
+# Realms Tutorial Collections: "Primary Project" - Changes - V P 0.0.2.0
 
 Welcome for the Update page for [version] here you can learn about what happened in this release.
 
@@ -49,14 +52,17 @@ This update is focused on bringing the tutorial collection up to date with curre
 
 - Data
 	- [Previous][Page Change Previous]
-	- [Next][Page Change Next]
-	- Status: Finished
+	- Next
+	- Status: Active
 
 ### General Changes
 
 The following is a list of the general project changes that happend durring this update, these are changes that do not fit into the other categories of changes.
 
 - Changes
+	- Updated main wiki page to reflect cleaner and updated setup
+	- Updated Change log home page to match the template
+	- Add Large number of outlined Design Layouts
 
 ### Project Changes
 
@@ -75,6 +81,9 @@ The following is a list of changes that effect the project handling.
 The following is a list of the new systems along with the number of starting features present at the time of adding the system.
 
 - New Systems
+	- [Project Changes Documentation][Sys Changes]
+		- Added Inital 7 Features
+
 
 ### Changed Systems
 
@@ -100,8 +109,11 @@ The following is a list of the new content added to the project and if the given
 				- Realms C OOP Standards
 				- Realms OOP
 				- Third Party Wraping Feature
-				- Third Party Wrapper System
-				
+				- Third Party Wrapper 
+				- OOP
+				- Project Tags
+			- Implimented
+				- [Realms Project][DL Proj]
 	- Updated
 	- Removed
 

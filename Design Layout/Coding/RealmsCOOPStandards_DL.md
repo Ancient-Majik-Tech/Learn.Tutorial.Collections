@@ -1,0 +1,2 @@
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/RealmsCOOPStandards_DL.md
+

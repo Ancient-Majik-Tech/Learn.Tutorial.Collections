@@ -1,0 +1,1 @@
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/ThirdPartyWrapper_DL.md

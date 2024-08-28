@@ -9,12 +9,12 @@
 [Sec Details]:link
 [Sec Layout]:link
 
-# Realms Tutorial Collections: "[Project Name]"
+# Realms Tutorial Collections: "[Project Name]" - Project
 
 Welcome to the project documentation for [Project Name].
 
 
-## ## Collection Index
+## Collection Index
 
 - [Home][Page Home] 
 	- Project(You are here)
