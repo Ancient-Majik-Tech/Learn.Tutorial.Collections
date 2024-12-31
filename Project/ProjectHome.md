@@ -2,7 +2,7 @@
 
 [Page Home]:link
 [Page Learn Home]:link
-[Page Changes Home]:link
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page Roadmap Home]:link
 
 [Page DesignLayout PrimaryProj]:link

@@ -3,9 +3,11 @@
 
 [Discord Invite]:https://discord.gg/8P2kvwm
 
-[Page Project Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
 [Page DesignLayout TutCollect]:link 
 [Page DesignLayout RCP]:link

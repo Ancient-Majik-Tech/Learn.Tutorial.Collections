@@ -1,40 +1,40 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
 
 [Page Home]:link
 [Page Project Home]:link
 [Page Learn Home]:link
 [Page Changes Home]:link
-[Page DL Home]:link
+[Page DL Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md
 
-[Sec WhatsNext]:link
-[Sec Details]:link
-[Sec Require]:link
-[Sec Desc]:link
-[Sec Setup]:link
-[Sec Defined]:link
-[Sec OtherLinks]:link
+[Sec WhatsNext]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md#whats-next
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md#design-layout-details
+[Sec Require]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md#required-knowledge-and-tools
+[Sec Desc]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md#what-is-a-realms-project
+[Sec Setup]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md#why-our-own-project-setup
+[Sec Defined]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md#realms-project-defined
+[Sec OtherLinks]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md#additional-materials
 
-[DL Docu DL]:link
+[DL Docu DL]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Docu/DesignLayoutDocu_DL.md
 
-[DL Proj Feat]:link
-[DL Proj System]:link
-[DL Proj Categories]:link
-[DL Proj Changes]:link
+[DL Proj Feat]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md
+[DL Proj System]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md
+[DL Proj Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/AMTCategories_DL.md
+[DL Proj Changes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/Changes_DL.md
 [DL Proj Docu]:link
 
-[DL Design CamelCase]:link
-[DL Design Namespace]:link
-[DL Design Versions]:link
-[DL Design Continual]:link
-[DL Design IDPieces]:link
+[DL Design CamelCase]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/CamelCaseNaming_DL.md
+[DL Design Namespace]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/Namespace_DL.md
+[DL Design Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/Versions_DL.md
+[DL Design Continual]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/ContinualDevelopment_DL.md
+[DL Design IDPieces]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/IDPieces_DL.md
 
-[DL Design System]:link
+[DL Design System]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/LogicSystemDesign_DL.md
 
-[DL User]:link
-[DL User Entity]:link
-[DL User Teamwork]:link
+[DL User]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsUser_DL.md
+[DL User Entity]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsEntityUser_DL.md
+[DL User Teamwork]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/UserTeamwork_DL.md
 
-[DL 3RDParty User Categories]:link
+[DL 3RDParty User Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/ThirdParty/UserDefinedCategories_DL.md
 
 # Realms Tutorial Collections: "Primary Project" - Design Layouts - Projects - Realms Project Design Layout
 
@@ -52,7 +52,7 @@
 
 - Page
 	- [Design Layout Details][Sec Details]
-	- [Required Knowledge and Tutorials][Sec Require]
+	- [Required Knowledge and Tools][Sec Require]
 	- [What is a Realms Project][Sec Desc]
 	- [Why our own Project Setup][Sec Setup]
 	- [Realms Project Defined][Sec Defined]
