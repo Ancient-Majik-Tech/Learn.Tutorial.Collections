@@ -17,7 +17,7 @@
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.3.0.md#fixes
 
 
-# Realms Tutorial Collections: "Main Project" Changes - V P 0.0.3.0 Power Docu
+# Realms Tutorial Collections: "Main Project" - Changes - V P 0.0.3.0 Power Docu
 
 Welcome for the Update page for V P 0.0.3.0 Power Docu here you can learn about what happened in this release.
 
@@ -45,7 +45,7 @@ Welcome for the Update page for V P 0.0.3.0 Power Docu here you can learn about 
 
 This section covers the details of this update including if it is the currently active update.
 
-V P 0.0.3.0 Power Docu
+This Update was dedicated to the documentation of Realms Projects and thier documentation.
 
 - Data
 	- [Previous][Page Change Previous]
@@ -57,7 +57,9 @@ V P 0.0.3.0 Power Docu
 The following is a list of the general project changes that happend durring this update, these are changes that do not fit into the other categories of changes.
 
 - Changes
-	- Updated [Change Log Home][Page Changes Home]
+	- Updated [Change Log Home][Page Changes Home] with links
+	- Updated all current Change Docu to use same format
+	- Updated [Changes][Sys Changes] to apply links.
 
 ### Project Changes
 

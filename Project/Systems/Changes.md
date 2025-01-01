@@ -1,15 +1,23 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
-[Sec Welcome]:link
-[Sec Details]:link
-[Sec Features]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#welcome
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#system-details
+[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#features
 
-# Realms Tutorial Collections: "Primary Project" - Systems - Project Changes Documentation System
+[Feat Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#changes-home-pafe-feature
+[Feat Change]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#version-change-page-feature
+[Feat Releases]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#releases-board-feature
+[Feat General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#general-changes-feat
+[Feat SysChange]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#system-changes-feature
+[Feat Content]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#content-changes-feature
+[Feat BugFix]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md#bug-fixes-feature
+
+# Realms Tutorial Collections: "Main Project" - Systems - Project Changes Documentation System
 
 ## Site Index
 
@@ -28,7 +36,7 @@
 
 ### Welcome
 
-Welcome to the [System Name] System's documentation page. This page is dedicated to helping you understand the system and its features. However please note that for understanding how to use the project you should check out [Learning][Page Learn Home] for all the dedicated learning for the given project.
+Welcome to the Project Changes Documentation System's documentation page. This page is dedicated to helping you understand the system and its features. However please note that for understanding how to use the project you should check out [Learning][Page Learn Home] for all the dedicated learning for the given project.
 
 ### System Details
 
@@ -57,6 +65,7 @@ The goal is to promote [Continual Development][Page DesignLayout ContinualDevelo
 	- [System Changes][Feat SysChange]
 	- [Content Changes][Feat Content]
 	- [Bug Fixes][Feat BugFix]
+
 
 ### Changes Home Page Feature
 

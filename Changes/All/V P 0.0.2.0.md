@@ -16,9 +16,9 @@
 [Sec Content]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#content-changes
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#fixes
 
-[DL Proj]:link
+[DL Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
 
-[Sys Changes]:link
+[Sys Changes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md
 
 # Realms Tutorial Collections: "Main Project" - Changes - V P 0.0.2.0 Design 1
 

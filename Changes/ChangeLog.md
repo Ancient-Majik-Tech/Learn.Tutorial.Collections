@@ -19,7 +19,6 @@ Welcome to the Change log section of the Tutorial Collection for Realms Tutorial
 
 - [Home][Page Home]
 	- [Project][Page Proj Home]
-		- [Systems][Page Sys Home]
 	- [Learning][Page Learn Home]
 	- Changes (You are Here)
 
