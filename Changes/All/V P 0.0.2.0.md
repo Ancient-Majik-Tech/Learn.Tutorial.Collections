@@ -1,28 +1,28 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
-[Page Change Previous]:link
-[Page Change Next]:link
+[Page Change Previous]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.1.0.md
+[Page Change Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.3.0.md
 
-[Sec Details]:[page]#details
-[Sec General]:[page]#general-changes
-[Sec Proj]:[page]#project-changes
-[Sec NewSys]:[page]#new-systems
-[Sec ChangedSys]:[page]#changed-systems
-[Sec Content]:[page]#content-changes
-[Sec Fixes]:[page]#fixes
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#details
+[Sec General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#general-changes
+[Sec Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#project-changes
+[Sec NewSys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#new-systems
+[Sec ChangedSys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#changed-systems
+[Sec Content]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#content-changes
+[Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md#fixes
 
 [DL Proj]:link
 
 [Sys Changes]:link
 
-# Realms Tutorial Collections: "Primary Project" - Changes - V P 0.0.2.0
+# Realms Tutorial Collections: "Main Project" - Changes - V P 0.0.2.0 Design 1
 
-Welcome for the Update page for [version] here you can learn about what happened in this release.
+Welcome for the Update page for V P 0.0.2.0 Design 1 here you can learn about what happened in this release.
 
 ## Site Index
 
@@ -30,7 +30,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 	- [Project][Page Proj Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
-		- [version] (You are here)
+		- V P 0.0.2.0 Design 1 (You are here)
 
 ## Page Index
 
@@ -52,8 +52,8 @@ This update is focused on bringing the tutorial collection up to date with curre
 
 - Data
 	- [Previous][Page Change Previous]
-	- Next
-	- Status: Active
+	- [Next][Page Change Next]
+	- Status: Finished
 
 ### General Changes
 
