@@ -78,6 +78,8 @@ The following is a list of changes that effect the project handling.
 The following is a list of the new systems along with the number of starting features present at the time of adding the system.
 
 - New Systems
+	- [Realms Projects Documentation][Sys Docu]
+		- Inital 7 Features
 
 ### Changed Systems
 
