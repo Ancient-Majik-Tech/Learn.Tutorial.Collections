@@ -60,6 +60,7 @@ The following is a list of the general project changes that happend durring this
 	- Updated [Change Log Home][Page Changes Home] with links
 	- Updated all current Change Docu to use same format
 	- Updated [Changes][Sys Changes] to apply links.
+	- Updated Systems to use correct ID Piece
 
 ### Project Changes
 
@@ -79,7 +80,9 @@ The following is a list of the new systems along with the number of starting fea
 
 - New Systems
 	- [Realms Projects Documentation][Sys Docu]
-		- Inital 7 Features
+		- Initial 7 Features
+	- [Realms Design Layouts][Sys DesignLayouts]
+		- Initial 8 Features
 
 ### Changed Systems
 
@@ -95,6 +98,9 @@ The following is a list of the new content added to the project and if the given
 	- New
 		- Design Prototypes
 		- Loadable
+			- Design Layouts
+				- Completed
+					- [Logic Systems Design Layout][DL Proj Systems]
 	- Updated
 	- Removed
 

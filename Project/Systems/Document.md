@@ -49,7 +49,7 @@ Welcome to the Realms Projects Documentation System's documentation page. This p
 
 - Details
 	- Name: Realms Projects Documentation
-	- SystemID: Tutorial.Document
+	- SystemID: TutHome.Document
 	- IDPiece: Document
 	- Version: V 1.0.0
 	- Implimented Version: V P 0.0.3.0
