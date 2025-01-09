@@ -1,32 +1,24 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md
 
-[Page Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
 [Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
-[DL Project]:link
-[DL Proj Tags]:link
-[DL Proj System]:link
-[DL Proj Feat]:link
-[DL Proj Versions]:link
-[DL Proj Releases]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md#welcome-to-design-layouts-home
+[Sec MainLayouts]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md#main-design-layouts
 
-[DL User]:link
+[DL Coding COOP]:link
+
+[DL Design Continual]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/ContinualDevelopment_DL.md
+[DL Design Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/Versions_DL.md
+
+[DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
+[DL 3RDParty Content]:link
+
+[Dl User User]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsUser_DL.md
 [DL User Contribute]:link
 [DL User Shop]:link
-
-[DL OOP]:link
-[DL BuildRequire]:link
-
-[DL RawC]:link
-[DL RealmsC]:link
-[DL RealmsCStand]:link
-[DL RealmsOOP]:link
-[DL RealmsCOOPStand]:link
-
-[DL 3RDPartyWrapSys]:link
-[DL 3RDPartyWrap]:link
 
 # Realms Tutorial Collections: "Primary Project" - Design Layouts
 
@@ -45,37 +37,26 @@ This section provides AMT's design Layouts in a organized place to make navigati
 
 - Page
 	- [Welcome][Sec Welcome]
-	- [Project Development][Sec ProjDevelop]
-	- [Code Development][Sec Coding]
+	- [Main Design Layouts][Sec MainLayouts]
 
-### Welcome to Design Layouts Section
+### Welcome to Design Layouts Home
 
-### Project Development Design Layouts
+### Main Design Layouts 
 
 - Design Layouts
-	- [Realms Project][DL Project]
-		- [Project Tags][DL Proj Tags]
-		- [Logic System][DL Proj System]
-		- [System Features][DL Proj Feat]
-		- [Versioning][DL Proj Versions]
-		- [Release Stages][DL Proj Releases]
-	- [Realms User][DL User]
-		- [Realms Contribution System][DL User Contribute]
+	- Coding
+		- [Realms C with OOP][DL Coding COOP]
+	- Design
+		- [Continual Development][DL Design Continual]
+		- [Versioning][DL Design Versions]
+	- Docu
+	- Projects
+		- [Realms Project][DL Proj Proj]
+	- Third Party
+		- [Third Party Content][DL 3RDParty Content]
+	- User
+		- [Realms Users][DL User User]
+		- [Realms Contributions System][DL User Contribute]
 		- [Realms Contribute Shop][DL User Shop]
 
-
-### Code Development Design Layouts
-
-- General
-	- [OOP][DL OOP]
-	- [Build Requirements][DL BuildRequire]
-- Project Development
-	- [Raw C][DL RawC]
-	- [Realms C][DL RealmsC]
-		- [Realms C Standards][DL RealmsCStand]
-	- [Realms OOP][DL RealmsOOP]
-		- [Realms C OOP Standards][DL RealmsCOOPStand]
-- Third Party
-	- [Third Party Wrapper System][DL 3RDPartyWrapSys]
-	- [Third Party Wrapper Feature][DL 3RDPartyWrap]
 	
