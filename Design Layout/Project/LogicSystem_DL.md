@@ -1,32 +1,32 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md
 
-[Page Home]:link
-[Page Project Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page DL Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md
 
-[Sec Details]:link
-[Sec Knowledge]:link
-[Sec Next]:link
-[Sec Materials]:link
-[Sec What]:link
-[Sec Breakdown]:link
-[Sec Define]:link
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md#design-layout-details
+[Sec Knowledge]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md#required-knowledge-and-tools
+[Sec Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md#whats-next
+[Sec Materials]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md#additional-materials
+[Sec What]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md#what-is-a-logic-system
+[Sec Breakdown]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md#why-the-breakdown
+[Sec Define]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md#defining-a-logic-system
 
-[DL Docu DL]:link
+[DL Docu DL]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Docu/DesignLayoutDocu_DL.md
 
-[DL Proj Proj]:link
-[DL Proj Features]:link
-[DL Proj Changes]:link
-[DL Design IDPieces]:link
-[DL Design CamelCase]:link
-[DL Design Versions]:link
-[DL Design Continual]:link
-[DL User User]:link
-[DL User Entity]:link
-[DL User Teamwork]:link
-[DL 3RDParty User Categories]:link
+[DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
+[DL Proj Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md
+[DL Proj Changes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/Changes_DL.md
+[DL Design IDPieces]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/IDPieces_DL.md
+[DL Design CamelCase]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/CamelCaseNaming_DL.md
+[DL Design Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/Versions_DL.md
+[DL Design Continual]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/ContinualDevelopment_DL.md
+[DL User User]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsUser_DL.md
+[DL User Entity]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsEntityUser_DL.md
+[DL User Teamwork]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/UserTeamwork_DL.md
+[DL 3RDParty User Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/ThirdParty/UserDefinedCategories_DL.md
 [DL Docu System]:link
 
 # Realms Tutorial Collections: "Main Project" - Design Layouts - Projects - Logic Systems Design Layout

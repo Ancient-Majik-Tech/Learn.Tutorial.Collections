@@ -41,7 +41,7 @@
 
 This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V 1.0).
 
-Realms Project Design Layout is designed to outline what a project is and how we use them to help us in the process of development.
+[Description]
 
 - Details
 	- Layout Category: [DL Category]

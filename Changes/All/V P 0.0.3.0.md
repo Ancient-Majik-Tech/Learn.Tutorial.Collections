@@ -61,6 +61,8 @@ The following is a list of the general project changes that happend durring this
 	- Updated all current Change Docu to use same format
 	- Updated [Changes][Sys Changes] to apply links.
 	- Updated Systems to use correct ID Piece
+	- Added new Page for roadmaping of the project.
+	- Large outline of pages to have links all in place
 
 ### Project Changes
 
@@ -101,6 +103,7 @@ The following is a list of the new content added to the project and if the given
 			- Design Layouts
 				- Completed
 					- [Logic Systems Design Layout][DL Proj Systems]
+					- [System Features Design Layout][DL Proj Features]
 	- Updated
 	- Removed
 

@@ -1,7 +1,7 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
 
-[Page Home]:link
-[Page Learn Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page Roadmap Home]:link
 
@@ -16,7 +16,7 @@
 [Sec Details]:link
 [Sec Layout]:link
 
-[Sys Changes]:link
+[Sys Changes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md
 [Sys DesignLayouts]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md
 [Sys Learn]:link
 [Sys Packages]:link
