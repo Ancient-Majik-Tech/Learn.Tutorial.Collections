@@ -123,7 +123,7 @@ So after this you should have the following infomation planned out (Data in JSON
 
 ### Whats Next
 
-First you should celebrate, you have made your first project. After that you will want to check out [Logic System][DL Design System] and think out the makeup you will want your project to be made up of.
+First you should celebrate, you have made your first project. After that you will want to check out [Logic System Design][DL Design System] and think out the makeup you will want your project to be made up of.
 
 ### Additional Materials
 

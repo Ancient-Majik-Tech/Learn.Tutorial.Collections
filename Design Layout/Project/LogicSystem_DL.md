@@ -27,7 +27,7 @@
 [DL User Entity]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsEntityUser_DL.md
 [DL User Teamwork]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/UserTeamwork_DL.md
 [DL 3RDParty User Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/ThirdParty/UserDefinedCategories_DL.md
-[DL Docu System]:link
+[DL Docu System]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Docu/SystemDocu_DL.md
 
 # Realms Tutorial Collections: "Main Project" - Design Layouts - Projects - Logic Systems Design Layout
 
