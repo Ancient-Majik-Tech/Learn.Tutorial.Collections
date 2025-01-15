@@ -20,7 +20,7 @@
 [DL Proj System]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md
 [DL Proj Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/AMTCategories_DL.md
 [DL Proj Changes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/Changes_DL.md
-[DL Proj Docu]:link
+[DL Docu Project]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Docu/ProjectDocu_DL.md
 
 [DL Design CamelCase]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/CamelCaseNaming_DL.md
 [DL Design Namespace]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/Namespace_DL.md
@@ -68,7 +68,14 @@ Realms Project Design Layout is designed to outline what a project is and how we
 - Details
 	- Layout Category: Projects
 	- Version: V 1.0
-	- Owner Project: E.AMT.Learn.Tutorial.Main
+	- Owner
+		- Project: E.AMT.Tutorials.Main
+		- System: Tutorial.DesignLayouts
+		- Feature: DesignLayouts.Realms
+	- Parent Layout: None
+	- Sublayouts:
+		- [Logic System][DL Proj System]
+		- [Project Documentation][DL Docu Project]
 	
 
 ### Required Knowledge and Tools
@@ -129,7 +136,7 @@ First you should celebrate, you have made your first project. After that you wil
 
 - Next Steps
 	- [Logic System][DL Proj System]
-	- [Project Documentation][DL Proj Docu]
+	- [Project Documentation][DL Docu Project]
 	- [Changes][DL Proj Changes]
 - Topic Reading
 	- [Logic Systems][DL Proj System]
@@ -143,4 +150,4 @@ First you should celebrate, you have made your first project. After that you wil
 	- [User Third Party Project Categories][DL 3RDParty User Categories]
 - Sublayouts
 	- [Logic Systems][DL Proj System]
-	- [Project Documentation][DL Proj Docu]
+	- [Project Documentation][DL Docu Project]

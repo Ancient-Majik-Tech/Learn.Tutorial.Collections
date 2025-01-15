@@ -8,19 +8,19 @@
 [Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md#welcome-to-design-layouts-home
 [Sec MainLayouts]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md#main-design-layouts
 
-[DL Coding COOP]:link
+[DL Coding COOP]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/RealmsCOOP_DL.md
 
 [DL Design Continual]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/ContinualDevelopment_DL.md
 [DL Design Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/Versions_DL.md
 
 [DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
-[DL 3RDParty Content]:link
+[DL 3RDParty Content]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/ThirdParty/ThirdPartyContent_DL.md
 
 [Dl User User]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsUser_DL.md
-[DL User Contribute]:link
-[DL User Shop]:link
+[DL User Contribute]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/ContibuteSystem_DL.md
+[DL User Shop]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/ContributeRewards_DL.md
 
-# Realms Tutorial Collections: "Primary Project" - Design Layouts
+# Realms Tutorial Collections: "Main Project" - Design Layouts
 
 This section provides AMT's design Layouts in a organized place to make navigation easier.
 
@@ -40,6 +40,8 @@ This section provides AMT's design Layouts in a organized place to make navigati
 	- [Main Design Layouts][Sec MainLayouts]
 
 ### Welcome to Design Layouts Home
+
+Welcome to the Design Layouts subsection of the [Learning][Page Learn Home] section. This unique section is used to store all our company design layouts. Which are specialized versions of Tutorials which we use to outline our expectations for our users as well as for our staff. Easing transition and promoting a healthier development experience and user experience.
 
 ### Main Design Layouts 
 
