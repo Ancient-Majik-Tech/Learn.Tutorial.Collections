@@ -1,13 +1,33 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
+[Page Systems]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md#systems-layout
 
 [Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#welcome
 [Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#system-details
 [Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#features
+
+[Feat DLHome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#design-layouts-home-feature
+[Feat Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#project-category-layouts-feature
+[Feat Design]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#design-category-layouts-feature
+[Feat Docu]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#docu-category-layouts-feature
+[Feat Coding]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#coding-category-layouts-feature
+[Feat thirdParty]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#third-party-category-layouts-feature
+[Feat User]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#user-category-layouts-feature
+[Feat RealmsLayouts]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/DesignLayouts.md#structured-realms-design-layouts-feature
+
+[Tag Content]:link
+[Tag DLCategory]:link
+[Tag SysHomePage]:link
+[Tag System Markdown]:link
+
+[DL Proj Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md
+[DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
+[DL Proj Systems]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md
+[DL Design Continual]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/ContinualDevelopment_DL.md
 
 # Realms Tutorial Collections: "Main Project" - Systems - Realms Design Layouts System
 
@@ -55,7 +75,9 @@ This system provides a place for us to have the outlines we use when developing 
 	- [Coding Category Layouts][Feat Coding]
 	- [Third Party Category Layouts][Feat ThirdParty]
 	- [User Category Layouts][Feat User]
-		
+	- [Structured Realms Design Layouts][Feat RealmsLayouts]
+
+
 
 ### Design Layouts Home Feature
 
@@ -159,5 +181,8 @@ This feature provides design layouts to help structure development with our syst
 	- Impliment System Version: V 0.2.0
 	- Last Change: V 0.2.0
 	- Tags
-		- [Content< DesignLayout, Realms Project >][Tag Content]
-		- [Content< DesignLayout, Logic Systems >][Tag Content]
+		- [Content][Tag Content]< DesignLayout, [Realms Project][DL Proj Proj] >
+		- [Content][Tag Content]< DesignLayout, [Logic Systems][DL Proj Systems] >
+		- [Content][Tag Content]< DesignLayout, [System Feature][DL Proj Features] >
+		- [Content][Tag Content]< DesignLayout, [Stepped Continual Development][DL Design Continual] >
+

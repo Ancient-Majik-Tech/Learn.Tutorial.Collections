@@ -6,13 +6,21 @@
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page DL Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md
 
-[Sec Details]:link
-[Sec Knowledge]:link
-[Sec Next]:link
-[Sec Materials]:link
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md#design-layout-details
+[Sec Knowledge]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md#required-knowledge-and-tools
+[Sec Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md#next-steps
+[Sec Materials]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md#additional-materials
+[Sec What]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md#what-is-a-system-feature
+[Sec Define]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md#defining-a-feature
 
+[DL Docu DL]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Docu/DesignLayoutDocu_DL.md
+[DL Docu Feature]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Docu/FeatureDocu_DL.md
 
-[DL Docu DL]:link
+[DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
+[DL Proj System]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md
+
+[DL Design IDPieces]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/IDPieces_DL.md
+[DL Design Namespace]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/Namespace_DL.md
 
 # Realms Tutorial Collections: "Main Project" - Design Layouts - Project - System Features Design Layout
 
@@ -31,7 +39,8 @@
 - Page
 	- [Design Layout Details][Sec Details]
 	- [Required Knowledge and Tools][Sec Knowledge]
-	- [Layout Extras]
+	- [What is a System Feature][Sec What]
+	- [Defining a Feature][Sec Define]
 	- [Whats Next][Sec Next]
 	- [Additional Materials][Sec Materials]
 
@@ -83,11 +92,13 @@ Now you understand features. Please check out [Feature Documentation][DL Docu Fe
 ### Additional Materials
 
 - Next Steps
-	= [Feature Documentation][DL Docu Feature]
+	- [Feature Documentation][DL Docu Feature]
 - Topic Reading
 	- [Realms Project][DL Proj Proj]
 	- [Logic Systems][DL Proj System]
 	- [ID Pieces][DL Design IDPieces]
-	- [Namespaces][DL Design Namespaces]
+	- [Namespaces][DL Design Namespace]
 - Sublayouts
 	- [Feature Documentation][DL Docu Feature]
+
+

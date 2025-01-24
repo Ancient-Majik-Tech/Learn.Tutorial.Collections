@@ -102,8 +102,9 @@ The following is a list of the new content added to the project and if the given
 		- Loadable
 			- Design Layouts
 				- Completed
-					- [Logic Systems Design Layout][DL Proj Systems]
-					- [System Features Design Layout][DL Proj Features]
+					- [Logic Systems][DL Proj Systems]
+					- [System Features][DL Proj Features]
+					- [Stepped Continual Development][DL Design Continual]
 	- Updated
 	- Removed
 
