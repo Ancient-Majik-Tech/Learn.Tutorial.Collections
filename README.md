@@ -9,18 +9,21 @@
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
-[Page DesignLayout TutCollect]:link 
-[Page DesignLayout RCP]:link
-[Page DesignLayout ContributeRewards]:link
+[DL Proj TutWiki]:link 
+[DL User RCP]:link
+[DL User ContributeRewards]:link
+[DL Proj Proj]:l
+[DL User Shop]:l
+
 
 [Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#welcome-to-realms-tutorial-collections
-[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#key-implimented-features
+[Sec Features]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#key-implemented-features
 [Sec PlannedFeatures]:link
 [Sec FinalNotes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#final-notes
 
-# Realms Tutorial Collections "Main Project"
+# Realms Wiki Collections: "Realms Tutorial Collections" - Home
 
-Welcome to the Wiki Home page for Realms Tutorial Collections.
+Welcome to the Wiki Home page for the project "Realms Tutorial Collections".
 
 ## Collection Index
 
@@ -39,16 +42,16 @@ Welcome to the Wiki Home page for Realms Tutorial Collections.
 
 ### Welcome to Realms Tutorial Collections
 
-Welcome to AMT's [Realms Tutorial Collection][Page DesignLayout TutCollect] project [Realms Tutorial Collections][Page Project Home] designed to provide a clean and easy to understand format for designing and maintaining documenation for all our projects.
+Welcome to AMT's [Realms Wiki Collection][DL Proj TutWiki] for the [Realms Project][DL Proj Proj] "[Realms Tutorial Collections][Page Project Home]" is designed to provide a clean and easy to understand format for designing and maintaining documenation for all our projects.
 
-Our Goal with Realms Tutorial Collections is to provide users, volunteer staff and staff alike with clear and easy to understand details around each project.
+Our Goal with "Realms Wiki Collections" is to provide users, volunteer staff and staff alike with clear and easy to understand details around each project.
 
-Our long term hope is that as we grow people will continue to develop thier own products to register to be place on a planned project we have of Realms Shop which will allow users to spend [Realms Contribution Points][Page DesignLayout RCP] which can be purchased or earned through our [Contribution Rewards System][Page DesignLayout ContributeRewards].
+Our long term hope is that as we grow people will continue to develop thier own products to register to be placed on our [Realms Contibution Shop][DL User Shop] which will allow users to spend thier [Realms Contribution Points][DL User RCP], which can be purchased or earned through our [Contribution Rewards System][DL User ContributeRewards], on products from us and our users.
 
 For a more in-depth view of Realms Tutorial Collections Project please check the [Project][Page Project Home] for more details.
 
 
-### Key Implimented Features
+### Key Implemented Features
 
 |Feature Name|Short desc|
 |:---|:---|
@@ -69,4 +72,4 @@ First we would like to thank you for your interest. If you would like to learn m
 
 Secondly this project and all subprojects are new and very much work in progress, if you see anything wierd, wrong or would like to just follow along with our progress. We welcome you to join [Our Discord][Discord Invite] server.
 
-Finally we would like to leave you with, our hopes are you will have a pleasant day or night, this project helped you move closer to fufilling your dreams one step at a time.
+Finally we would like to leave you with, our hopes are you will have a pleasant day or night and this project helped you move closer to fufilling your dreams one step at a time.

@@ -63,6 +63,8 @@ The following is a list of the general project changes that happend durring this
 	- Updated Systems to use correct ID Piece
 	- Added new Page for roadmaping of the project.
 	- Large outline of pages to have links all in place
+	- Updated home page for better readability
+	- Updated with new DL for Realms Contibute Shop
 
 ### Project Changes
 
