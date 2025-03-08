@@ -9,11 +9,11 @@
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
-[DL Proj TutWiki]:link 
-[DL User RCP]:link
-[DL User ContributeRewards]:link
-[DL Proj Proj]:l
-[DL User Shop]:l
+[DL Proj TutWiki]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TutorialWikiProject_DL.md
+[DL User RCP]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RCP_DL.md
+[DL User ContributeRewards]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/ContributeRewards_DL.md
+[DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
+[DL User Shop]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/User/RealmsContibuteShop_DL.md
 
 
 [Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#welcome-to-realms-tutorial-collections

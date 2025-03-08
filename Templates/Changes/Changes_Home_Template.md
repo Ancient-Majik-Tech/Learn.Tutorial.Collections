@@ -11,7 +11,7 @@
 
 [Sec ReleaseBoard]:[page]#latest-releases-board
 
-# Realms Tutorial Collections: "[Name]" [ Changes ]
+# Realms Tutorial Collections: "[Name]" - Changes - Home
 
 Welcome to the Change log section of the Tutorial Collection for [name].
 

@@ -12,9 +12,9 @@
 [Sec Feat Added]:link
 [Sec Feat Planned]:link
 
-# Realms Tutorial Collections: "[Project Name]"
+# Realms Tutorial Collections: "[Project Name]" - Home
 
-Welcome to the main page for the [Realms Tutorial Collections][Page Learn.Tutorial.Home] for our Library Project, Realms Engine.
+Welcome to the main page for the [Realms Wiki Collection][Page Learn.Tutorial.Home] for our [Category] Project, "[Project Name]".
 
 ## Collection Index
 

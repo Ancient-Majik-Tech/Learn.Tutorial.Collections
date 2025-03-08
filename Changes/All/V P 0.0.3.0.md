@@ -49,8 +49,8 @@ This Update was dedicated to the documentation of Realms Projects and thier docu
 
 - Data
 	- [Previous][Page Change Previous]
-	- Next
-	- Status: Active
+	- [Next][Page Change Next]
+	- Status: Finished
 
 ### General Changes
 

@@ -45,18 +45,19 @@ Welcome for the Update page for [version] here you can learn about what happened
 
 This section covers the details of this update including if it is the currently active update.
 
-[Update]
+This update was dedicated to getting more complete picture of the entire setup done though the Design Layouts, also updates to clean up templates
 
 - Data
 	- [Previous][Page Change Previous]
-	- [Next][Page Change Next]
-	- Status: Finished
+	- Next
+	- Status: Ongoing
 
 ### General Changes
 
 The following is a list of the general project changes that happend durring this update, these are changes that do not fit into the other categories of changes.
 
 - Changes
+	- Update of many templates to get them set up right.
 
 ### Project Changes
 
