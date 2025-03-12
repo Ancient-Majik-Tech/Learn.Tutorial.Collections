@@ -2,12 +2,13 @@
 
 [Page Home]:link
 [Page Proj Home]:link
+[Page Sys Home]:link
 [Page Learn Home]:link
 [Page Changes Home]:link
 
-[Sec Welcome]:link
-[Sec Details]:link
-[Sec Features]:link
+[Sec Welcome]:[page]#welcome
+[Sec Details]:[page]#system-details
+[Sec Features]:[page]#features
 
 # Realms Tutorial Collections: "[Project Name]" - Systems - [System Name]
 
@@ -15,7 +16,8 @@
 
 - [Home][Page Home]
 	- [Project][Page Proj Home]
-		- Library Host System (You are here)
+		- [Systems][Page Sys Home]
+			- [System Name] System (You are here)
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
 
