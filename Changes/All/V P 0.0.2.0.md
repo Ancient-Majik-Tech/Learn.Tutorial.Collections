@@ -20,7 +20,7 @@
 
 [Sys Changes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Changes.md
 
-# Realms Tutorial Collections: "Main Project" - Changes - V P 0.0.2.0 Design 1
+# Realms Tutorial Collections: "Realms Public Information Home" - Changes - V P 0.0.2.0 Design 1
 
 Welcome for the Update page for V P 0.0.2.0 Design 1 here you can learn about what happened in this release.
 

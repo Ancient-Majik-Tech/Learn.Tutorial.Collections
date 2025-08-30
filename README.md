@@ -23,7 +23,7 @@
 
 # Realms Wiki Collections: "Realms Public Information Home" - Home
 
-Welcome to the Wiki Home page for the project "Realms Tutorial Collections".
+Welcome to the Wiki Home page for the project "Realms Public Information Home".
 
 ## Collection Index
 
@@ -40,7 +40,7 @@ Welcome to the Wiki Home page for the project "Realms Tutorial Collections".
 		- [Planned Features][Sec PlannedFeatures]
 		- [Final Notes][Sec FinalNotes]
 
-### Welcome to Realms Tutorial Collections
+### Welcome to Realms Public Information Home
 
 Welcome to AMT's [Realms Wiki Collection][DL Proj TutWiki] for the [Realms Project][DL Proj Proj] "[Realms Tutorial Collections][Page Project Home]" is designed to provide a clean and easy to understand format for designing and maintaining documenation for all our projects.
 

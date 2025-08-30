@@ -17,7 +17,7 @@
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.1.0.md#fixes
 
 
-# Realms Tutorial Collections: "Main Project" - Changes - V P 0.0.1.0 First View
+# Realms Tutorial Collections: "Realms Public Information Home" - Changes - V P 0.0.1.0 First View
 
 Welcome for the Update page for V P 0.0.1.0 First View here you can learn about what happened in this release.
 

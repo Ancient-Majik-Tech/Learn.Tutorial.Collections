@@ -17,7 +17,19 @@
 
 [Proj Libs.CS.UI.WinformLayer]:link
 
+[Proj Social.Discord]:link
+[Proj Social.Website]:link
+[Proj Social.Twitch]:link
+[Proj Social.Youtube]:link
 
+[Proj Theory.HigherDimentionSystems]:link
+	
+[Proj Tools.CS.ProjDevToolkit]:link
+[Proj Tools.Tests.CS.ToolCoreTester]:link
+
+[Proj Users.UserSupported]:link
+[Proj Users.RCP]:link
+[Proj Users.Shop]:link
 
 # Realms Wiki Collections: "Realms Public Information Home" - Projects
 
@@ -87,15 +99,5 @@
 		- [Realms Contribution Shop][Proj Users.Shop]
 	- Users - Benefits
 
-	[Proj Social.Discord]:link
-	[Proj Social.Website]:link
-	[Proj Social.Twitch]:link
-	[Proj Social.Youtube]:link
-
-	[Proj Theory.HigherDimentionSystems]:link
-	[Proj Tools.CS.ProjDevToolkit]:link
-	[Proj Tools.Tests.CS.ToolCoreTester]:link
-	[Proj Users.UserSupported]:link
-	[Proj Users.RCP]:link
-	[Proj Users.Shop]:link
+	
 	
