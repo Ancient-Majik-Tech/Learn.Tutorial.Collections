@@ -17,9 +17,9 @@
 [Sec Fixes]:[page]#fixes
 
 
-# Realms Tutorial Collections: "[Project Name]" - Changes - [version]
+# Realms Tutorial Collections: "Realms Public Information Home" - Changes - V P 0.0.4.0 Proj Recover
 
-Welcome for the Update page for [version] here you can learn about what happened in this release.
+Welcome for the Update page for V P 0.0.4.0 here you can learn about what happened in this release.
 
 ## Site Index
 
@@ -27,7 +27,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 	- [Project][Page Proj Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
-		- [version] (You are here)
+		- V P 0.0.4.0 (You are here)
 
 ## Page Index
 
@@ -45,7 +45,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 
 This section covers the details of this update including if it is the currently active update.
 
-This update was dedicated to getting more complete picture of the entire setup done though the Design Layouts, also updates to clean up templates
+This update is focused on getting things updated after a massive change due to a hard drive failure.
 
 - Data
 	- [Previous][Page Change Previous]
@@ -57,7 +57,8 @@ This update was dedicated to getting more complete picture of the entire setup d
 The following is a list of the general project changes that happend durring this update, these are changes that do not fit into the other categories of changes.
 
 - Changes
-	- Update of many templates to get them set up right.
+	- Updated to host a ongoing list of Primary Projects (projects who don't have a parent project of thier own)
+	- Changed name of project to Realms Public Information Home
 
 ### Project Changes
 

@@ -8,10 +8,11 @@
 [Page Changes V1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.1.0.md
 [Page Changes V2]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md
 [Page Changes V3]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.3.0.md
+[Page Changes V4]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md
 
 [Sec ReleaseBoard]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md#latest-releases-board
 
-# Realms Tutorial Collections: "Primary Project" - Changes
+# Realms Tutorial Collections: "Realms Public Information Home" - Changes
 
 Welcome to the Change log section of the Tutorial Collection for Realms Tutorial Collections.
 
@@ -30,12 +31,13 @@ Welcome to the Change log section of the Tutorial Collection for Realms Tutorial
 		- [V D 0.0.1.0][Page Changes V1]
 		- [V P 0.0.2.0][Page Changes V2]
 		- [V P 0.0.3.0][Page Changes V3]
+		- [V P 0.0.4.0][Page Changes V4]
 
 
 ### Latest Releases Board
 
 - Releases
-	- Public: [V P 0.0.3.0][Page Changes V3]
+	- Public: [V P 0.0.4.0][Page Changes V4]
 	- Early Public: None
 	- Beta: None
 	- Early Beta: None

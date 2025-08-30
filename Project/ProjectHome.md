@@ -23,7 +23,7 @@
 [Sys Templates]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Templates.md
 [Sys Document]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Document.md
 
-# Realms Tutorial Collections: "Main Project" - Project
+# Realms Tutorial Collections: "Realms Public Information Home" - Project
 
 Welcome to the project documentation for Realms Tutorial Collections.
 
@@ -50,7 +50,7 @@ This Page is designed to be this projects documentation to provide a more techni
 
 ### Project Details
 
-- Realms Tutorial Collections
+- Realms Public Information Home
 	- [Versioning][Page Changes Home]
 	- [Roadmap][Page Roadmap Home]
 	- Tags

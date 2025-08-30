@@ -21,7 +21,7 @@
 [Sec PlannedFeatures]:link
 [Sec FinalNotes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md#final-notes
 
-# Realms Wiki Collections: "Realms Tutorial Collections" - Home
+# Realms Wiki Collections: "Realms Public Information Home" - Home
 
 Welcome to the Wiki Home page for the project "Realms Tutorial Collections".
 

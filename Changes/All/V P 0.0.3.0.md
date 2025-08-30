@@ -6,7 +6,7 @@
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
 [Page Change Previous]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.2.0.md
-[Page Change Next]:link
+[Page Change Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md
 
 [Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.3.0.md#details
 [Sec General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.3.0.md#general-changes
@@ -17,7 +17,7 @@
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.3.0.md#fixes
 
 
-# Realms Tutorial Collections: "Main Project" - Changes - V P 0.0.3.0 Power Docu
+# Realms Tutorial Collections: "Realms Public Information Home" - Changes - V P 0.0.3.0 Power Docu
 
 Welcome for the Update page for V P 0.0.3.0 Power Docu here you can learn about what happened in this release.
 
