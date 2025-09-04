@@ -5,6 +5,7 @@
 
 [Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
 
+[Page OurProjects]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md
 [Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
@@ -28,6 +29,7 @@ Welcome to the Wiki Home page for the project "Realms Public Information Home".
 ## Collection Index
 
 - Home (You are Here)
+	- [Our Projects][Page OurProjects]
 	- [Project][Page Project Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]

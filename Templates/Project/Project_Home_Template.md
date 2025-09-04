@@ -1,15 +1,15 @@
 [Page]:link
 
-[Page Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
-[Page Roadmap Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Roadmap Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Standards]:link
-[Sec Details]:link
-[Sec Layout]:link
+[Sec Standards]:link#design-standards
+[Sec Details]:link#project-details
+[Sec Layout]:link#system-layout
 
-# Realms Tutorial Collections: "[Project Name]" - Project
+# Realms Wiki Collections: "[Project Name]" - Project
 
 Welcome to the project documentation for [Project Name].
 

@@ -1,4 +1,4 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md
 
 [Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
 [Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
@@ -6,19 +6,19 @@
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page Roadmap Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/RoadmapHome.md
 
-[Sec Welcome]:link#welcome
-[Sec Categories]:link#categories
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#welcome
+[Sec Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#categories
 
-[Page MainProjsCollect]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page MainProjsCollect]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/CategoriesHome.md
 
-[Proj Games.Mods.PZ.Gaia]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Games.Mods.PZ.Gaia]:https://github.com/Ancient-Majik-Tech/Games.Mods.PZ.Gaia.Wiki/blob/main/Project/ProjectHome.md
 
 [Proj Learn.Research.Sciences.QuantumPhysics]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Learn.Research.Sciences.ClassicalPhysics]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Learn.Research.Sciences.Chemistry]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 [Proj Learn.Tutorial.Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
-[Proj Learn.Tutorial.MainCollect]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Learn.Tutorial.MainCollect]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/README.md
 
 [Proj Libs.CS.ToolCore]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Libs.CS.Chemistry]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -27,9 +27,9 @@
 
 [Proj Libs.CS.UI.WinformLayer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Proj Social.Discord]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Social.Discord]:https://github.com/Ancient-Majik-Tech/Social.Discord/blob/main/README.md
 [Proj Social.Website]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Proj Social.Twitch]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Social.Twitch]:https://github.com/Ancient-Majik-Tech/Social.Twitch/blob/main/README.md
 [Proj Social.Youtube]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 [Proj Theory.HigherDimentionSystems]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -85,7 +85,7 @@ Welcome to the "Our Projects" page home to all the public information wiki's for
 		- [Chemistry Research][Proj Learn.Research.Sciences.Chemistry]
 	- Learn - Tutorial
 		- [Realms Public Information Home][Proj Learn.Tutorial.Main ]
-		- [Realms Category Main Projects Collection Wiki][Proj Learn.Tutorial.MainCollect]
+		- [Realms Category Definition Projects Collection][Proj Learn.Tutorial.MainCollect]
 	- Libs
 	- Libs - CS
 		- [Realms C# Tools Core Library][Proj Libs.CS.ToolCore]
