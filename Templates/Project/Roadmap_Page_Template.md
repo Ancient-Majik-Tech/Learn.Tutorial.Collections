@@ -1,27 +1,27 @@
 [Page]:link
 
-[Page Home]:link
-[Page Project Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Welcome]:link
-[Sec Unplaced Changes]:link
-[Sec Versioning Plan]:link
+[Sec Welcome]:link#welcome
+[Sec Unplaced Changes]:link#unsorted-plans
+[Sec Versioning Plan]:link#version-plans
 
-[Sec Release P1]:link
+[Sec Release P1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Release EP1]:link
+[Sec Release EP1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Release B1]:link
+[Sec Release B1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Release EB1]:link
+[Sec Release EB1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Release PV1]:link
+[Sec Release PV1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Release T1]:link
+[Sec Release T1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Release ET1]:link
+[Sec Release ET1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 # Realms Tutorial Collection: "Realms Engine" - Project - Roadmap
 
