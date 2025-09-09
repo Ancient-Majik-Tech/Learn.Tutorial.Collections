@@ -46,6 +46,41 @@
 [Cat Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#users
 [Cat Users.Benifits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#usersbenifits
 
+[CatProj Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Games]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Games.Mods]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Games.Mods.PZ]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Green.Recycle]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.Field]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.Skills]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Tutorial]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Libs]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Libs.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Libs.CS.UI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Lore]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Lore.Common]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Theory.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Users.Benfits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
 [Proj Company.User]:https://github.com/Ancient-Majik-Tech/Company.User.Wiki/blob/main/README.md
 
 [Proj Games.Mods.PZ.Gaia]:https://github.com/Ancient-Majik-Tech/Games.Mods.PZ.Gaia.Wiki/blob/main/Project/ProjectHome.md
@@ -119,32 +154,33 @@ Empty categories are there because we are working to get all projects together a
 	- [Games.Mods.PZ][Cat Games.Mods.PZ]
 	- [Green][Cat Green]
 	- [Green.Recycle][Cat Green.Recycle]
-	- [Learn][Cat Green.Recycle]
-	- [Learn.Research][Cat Green.Recycle]
-	- [Learn.Research.Field][Cat Green.Recycle]
+	- [Learn][Cat Learn]
+	- [Learn.Research][Cat Learn.Research]
+	- [Learn.Research.Field][Cat Learn.Research.Field]
 	- [Learn.Research.General][Cat Learn.Research.General]
-	- [Learn.Research.Sciences][Cat Green.Recycle]
+	- [Learn.Research.Sciences][Cat Learn.Research.Sciences]
 	- [Learn.Research.Skills][Cat Learn.Research.Skills]
-	- [Learn.Tutorial][Cat Green.Recycle]
-	- [Libs][Cat Green.Recycle]
-	- [Libs.CS][Cat Green.Recycle]
-	- [Libs.CS.UI][Cat Green.Recycle]
-	- [Lore][Cat Green.Recycle]
-	- [Lore.Common][Cat Green.Recycle]
+	- [Learn.Tutorial][Cat Learn.Tutorial]
+	- [Libs][Cat Libs]
+	- [Libs.CS][Cat Libs.CS]
+	- [Libs.CS.UI][Cat Libs.CS.UI]
+	- [Lore][Cat Lore]
+	- [Lore.Common][Cat Lore.Common]
 	- [Lore.Histories][Cat Lore.Histories]
-	- [Social][Cat Green.Recycle]
-	- [Staff][Cat Green.Recycle]
-	- [Theoretical][Cat Green.Recycle]
+	- [Social][Cat Social]
+	- [Staff][Cat Staff]
+	- [Theoretical][Cat Theory]
 	- [Theoretical.General][Cat Theory.General]
-	- [Theoretical.Sciences][Cat Green.Recycle]
-	- [Tools][Cat Green.Recycle]
-	- [Tools.CS][Cat Green.Recycle]
-	- [Tools.Tests][Cat Green.Recycle]
-	- [Tools.Tests.CS][Cat Green.Recycle]
-	- [Users][Cat Green.Recycle]
-	- [Users.Benefits][Cat Green.Recycle]
+	- [Theoretical.Sciences][Cat Theory.Sciences]
+	- [Tools][Cat Tools]
+	- [Tools.CS][Cat Tools.CS]
+	- [Tools.Tests][Cat Tools.Tests]
+	- [Tools.Tests.CS][Cat Tools.Tests.CS]
+	- [Users][Cat Users]
+	- [Users.Benefits][Cat Users.Benifits]
 
-	
+
+
 ### Main
 
 Projects which define categories which are used to organize projects.
@@ -176,13 +212,11 @@ Projects designed around the functionality of the company as a whole.
 	- [Ancient Majik Technologies LLC][Proj Company.User]
 - [Return To Top][Sec Categories]
 
-
-
 ### Engineering
 
 Project designed to build useful systems for a range of different functionality.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Engineering.Main][CatProj Engineer]
 - Parent Category: None
 - Subcategories:
 	- [Civil][Cat Engineer.Civil]
@@ -193,7 +227,7 @@ Project designed to build useful systems for a range of different functionality.
 
 Engineering projects designed around providing systems for civilian use.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Engineering.Civil.Main][CatProj Engineer.Civil]
 - Parent Category: [Engineering][Cat Engineer]
 - Subcategories:
 - Projects:
@@ -203,7 +237,7 @@ Engineering projects designed around providing systems for civilian use.
 
 Projects which are playable by our users to provide game functionality.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Games.Main][CatProj Main]
 - Parent Category: None
 - Subcategories:
 	- [Mods][Cat Games.Mods]
@@ -214,7 +248,7 @@ Projects which are playable by our users to provide game functionality.
 
 Category for mods for third party games or even for our own games.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Games.Mods.Main][CatProj Games.Mods]
 - Parent Category: [Games][Cat Games]
 - Subcategories:
 	- [Project Zomboid][Cat Games.Mods.PZ]
@@ -225,7 +259,7 @@ Category for mods for third party games or even for our own games.
 
 Category for mods for the game Project Zomboid.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Games.Mods.PZ.Main][CatProj Games.Mods.PZ]
 - Parent Category: [Games.Mods][Cat Games.Mods]
 - Subcategories:
 - Projects:
@@ -236,7 +270,7 @@ Category for mods for the game Project Zomboid.
 
 Projects designed to be as self sufficient using materials and things others consider junk along with other types of nature based projects.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Green.Main][CatProj Green]
 - Parent Category: None
 - Subcategories:
 	- [Recycle][Cat Green.Recycle]
@@ -247,7 +281,7 @@ Projects designed to be as self sufficient using materials and things others con
 
 Projects designed to use materials others throw out into useable resources for future projects.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Green.Recycle.Main][CatProj Green.Recycle]
 - Parent Category: [Green.Recycle][Cat Green.Recycle]
 - Subcategories:
 - Projects:
@@ -257,7 +291,7 @@ Projects designed to use materials others throw out into useable resources for f
 
 Projects designed to learn about our world or teach others our thoughts.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Learn.Main][CatProj Learn]
 - Parent Category: None
 - Subcategories:
 	- [Research][Cat Learn.Research]
@@ -269,7 +303,7 @@ Projects designed to learn about our world or teach others our thoughts.
 
 Projects dedicated to learning by researching current modern understanding of real world systems.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Learn.Research.Main][CatProj Learn.Research]
 - Parent Category: [Learn][Cat Learn]
 - Subcategories:
 	- [Field][Cat Learn.Research.Field]
@@ -283,7 +317,7 @@ Projects dedicated to learning by researching current modern understanding of re
 
 Projects dedicated to learning through direct field work.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Learn.Research.Field.Main][CatProj Learn.Research.Field]
 - Parent Category: [Learn.Reasearch][Cat Learn.Research]
 - Subcategories:
 - Projects:
@@ -293,7 +327,7 @@ Projects dedicated to learning through direct field work.
 
 Projects dedicated to the interrelations between systems within modern real world systems.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Learn.Research.General.Main][CatProj Learn.Research.General]
 - Parent Category: [Learn.Reasearch][Cat Learn.Research]
 - Subcategories:
 - Projects:
@@ -303,7 +337,7 @@ Projects dedicated to the interrelations between systems within modern real worl
 
 Projects dedicated to the understanding of real world systems to have a more complete understanding of the world around us.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Learn.Research.Sciences.Main][CatProj Learn.Research.Sciences]
 - Parent Category: [Learn.Reasearch][Cat Learn.Research]
 - Subcategories:
 - Projects:
@@ -316,7 +350,7 @@ Projects dedicated to the understanding of real world systems to have a more com
 
 Projects dedicated to understanding of technologies, and system with thier interrelations between beings. Including thier evolving state over time. 
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Learn.Research.Skills.Main][CatProj Learn.Research.Skills]
 - Parent Category: [Learn.Reasearch][Cat Learn.Research]
 - Subcategories:
 - Projects:
@@ -326,7 +360,7 @@ Projects dedicated to understanding of technologies, and system with thier inter
 
 Projects dedicated to teaching users about our company and the systems within our projects.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Learn.Tutorial.Main][CatProj Learn.Tutorial]
 - Parent Category: [Learn][Cat Learn]
 - Subcategories:
 - Projects:
@@ -338,7 +372,7 @@ Projects dedicated to teaching users about our company and the systems within ou
 
 Projects which are ETool libraries for expanded flexiability to ETools, including games.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Libs.Main][CatProj Libs]
 - Parent Category: None
 - Subcategories:
 	- [CS][Sec Libs.CS]
@@ -349,7 +383,7 @@ Projects which are ETool libraries for expanded flexiability to ETools, includin
 
 Projects which are CSharp ETool Libraries.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Libs.CS.Main][CatProj Libs.CS]
 - Parent Category: [Libs][Cat Libs]
 - Subcategories:
 	- [UI][Cat Libs.CS.UI]
@@ -364,7 +398,7 @@ Projects which are CSharp ETool Libraries.
 
 CSharp User Interface ETool library projects.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Libs.CS.UI.Main][CatProj Libs.CS.UI]
 - Parent Category: [Libs.CS][Cat Libs.CS]
 - Subcategories:
 - Projects:
@@ -375,7 +409,7 @@ CSharp User Interface ETool library projects.
 
 Projects dedicated to building understanding of lore of other companies or developing our own lore.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Lore.Main][CatProj Lore]
 - Parent Category: None
 - Subcategories:
 	- [Common][Cat Lore.Common]
@@ -387,7 +421,7 @@ Projects dedicated to building understanding of lore of other companies or devel
 
 Projects dedicated to building our own lore and this lore is designed to be used by all "Realms of the mind" projects.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Lore.Common.Main][CatProj Lore.Common]
 - Parent Category: [Lore][Cat Lore]
 - Subcategories:
 - Projects:
@@ -397,7 +431,7 @@ Projects dedicated to building our own lore and this lore is designed to be used
 
 Projects which are dedicated history stories from within "Realms of the Mind" lore.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Lore.Histories.Main][CatProj Lore.Histories]
 - Parent Category: [Lore][Cat Lore]
 - Subcategories:
 - Projects:
@@ -407,7 +441,7 @@ Projects which are dedicated history stories from within "Realms of the Mind" lo
 
 Projects designed to be social interactions with our users to provide better interactions.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Social.Main][CatProj Social]
 - Parent Category: None
 - Subcategories:
 - Projects:
@@ -421,7 +455,7 @@ Projects designed to be social interactions with our users to provide better int
 
 Projects designed to assist our individual staff with issues they may face.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Staff.Main][CatProj Staff]
 - Parent Category: None
 - Subcategories:
 - Projects:
@@ -432,7 +466,7 @@ Projects designed to assist our individual staff with issues they may face.
 
 Projects designed around organizeing and managing our teams and help keep them focused.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Teams.Main][CatProj Teams]
 - Parent Category: None
 - Subcategories:
 - Projects:
@@ -442,7 +476,7 @@ Projects designed around organizeing and managing our teams and help keep them f
 
 Projects which are working our our own independent thoughts to the world around us.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Theoretical.Main][CatProj Theory]
 - Parent Category: None
 - Subcategories:
 	- [General][Cat Theory.General]
@@ -454,8 +488,8 @@ Projects which are working our our own independent thoughts to the world around 
 
 Projects which are designed to help other theoretical projects be more organized.
 
-- ProjectID: [ProjectID][Cat id]
-- Parent Category: [Theoretical][Cat Theoretical]
+- ProjectID: [E.AMT.Theoretical.General.Main][CatProj Theory.General]
+- Parent Category: [Theoretical][Cat Theory]
 - Subcategories:
 - Projects:
 	- [Realms Independent Theoretical General Data Collection][Proj Theory.General.DataCollect]
@@ -465,7 +499,7 @@ Projects which are designed to help other theoretical projects be more organized
 
 Projects which are building theories into sciences which may or may not be correct but is our working understanding of sciences and thier interconnections to each other.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Theoretical.Sciences.Main][CatProj Theory.Sciences]
 - Parent Category: [Theoretical][Cat Theoretical]
 - Subcategories:
 - Projects:
@@ -476,7 +510,7 @@ Projects which are building theories into sciences which may or may not be corre
 
 ETool's are application which provide non-game functionality to users and staff alike
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Tools.Main][CatProj Tools]
 - Parent Category: None
 - Subcategories:
 	- [CS][Cat Tools.CS]
@@ -489,7 +523,7 @@ ETool's are application which provide non-game functionality to users and staff 
 
 CSharp ETool Projects
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Tools.CS.Main][CatProj Tools.CS]
 - Parent Category: [Tools][Cat Tools]
 - Subcategories:
 - Projects:
@@ -499,7 +533,7 @@ CSharp ETool Projects
 
 ETool Library Tester projects which are designed to test libraries and can help show ways to improve.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Tools.Tests.Main][CatProj Tools.Tests]
 - Parent Category: [Tools][Cat Tools]
 - Subcategories:
 	- [CS][Cat Tools.Tests.CS]
@@ -510,7 +544,7 @@ ETool Library Tester projects which are designed to test libraries and can help 
 
 ETool Library Tester projects for the CSharp programing language.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Tools.Tests.CS.Main][CatProj Tools.Tests.CS]
 - Parent Category: [Tools.Tests][Cat Tools.Tests]
 - Subcategories:
 - Projects:
@@ -521,7 +555,7 @@ ETool Library Tester projects for the CSharp programing language.
 
 Projects which are designed for to help give back to users and interact with them.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Users.Main][CatProj Users]
 - Parent Category: None
 - Subcategories:
 	- [Benifits][Cat Users.Benifits]
@@ -535,19 +569,10 @@ Projects which are designed for to help give back to users and interact with the
 
 Projects which are designed to provide user benifits for our users.
 
-- ProjectID: [ProjectID][Cat id]
+- ProjectID: [E.AMT.Users.Benefits.Main][CatProj Users.Benefits]
 - Parent Category: [Users][Cat Users]
 - Subcategories:
 - Projects:
 - [Return To Top][Sec Categories]
 
-### [Category.ID]
-
-[desc]
-
-- ProjectID: [ProjectID][Cat id]
-- Parent Category: [ParentCat][Cat ID]
-- Subcategories:
-- Projects:
-- [Return To Top][Sec Categories]
 

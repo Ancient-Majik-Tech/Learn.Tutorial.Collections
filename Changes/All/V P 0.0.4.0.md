@@ -60,6 +60,8 @@ The following is a list of the general project changes that happend durring this
 	- Updated to host a ongoing list of Primary Projects (projects who don't have a parent project of thier own)
 	- Changed name of project to Realms Public Information Home
 	- Added page to mark placeholder links in our projects.
+	- Added new Template for projects page
+	- updated projects page to be more organized.
 
 ### Project Changes
 
