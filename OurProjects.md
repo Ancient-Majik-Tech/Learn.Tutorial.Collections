@@ -35,6 +35,7 @@
 [Cat Lore.Common]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lorecommon
 [Cat Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lorehistories
 [Cat Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#staff
+[Cat Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#social
 [Cat Teams]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#teams
 [Cat Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoretical
 [Cat Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoreticalgeneral
@@ -46,7 +47,7 @@
 [Cat Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#users
 [Cat Users.Benifits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#usersbenifits
 
-[CatProj Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
 [CatProj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -71,6 +72,7 @@
 [CatProj Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Teams]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Theory.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -79,7 +81,7 @@
 [CatProj Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Users.Benfits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Users.Benifits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 [Proj Company.User]:https://github.com/Ancient-Majik-Tech/Company.User.Wiki/blob/main/README.md
 
@@ -375,7 +377,7 @@ Projects which are ETool libraries for expanded flexiability to ETools, includin
 - ProjectID: [E.AMT.Libs.Main][CatProj Libs]
 - Parent Category: None
 - Subcategories:
-	- [CS][Sec Libs.CS]
+	- [CS][Cat Libs.CS]
 - Projects:
 - [Return To Top][Sec Categories]
 
@@ -500,7 +502,7 @@ Projects which are designed to help other theoretical projects be more organized
 Projects which are building theories into sciences which may or may not be correct but is our working understanding of sciences and thier interconnections to each other.
 
 - ProjectID: [E.AMT.Theoretical.Sciences.Main][CatProj Theory.Sciences]
-- Parent Category: [Theoretical][Cat Theoretical]
+- Parent Category: [Theoretical][Cat Theory]
 - Subcategories:
 - Projects:
 	- [Higherarcical Higher Dimentional Logical Conceptual Mathmatic Systems][Proj Theory.HigherDimentionSystems]
@@ -569,7 +571,7 @@ Projects which are designed for to help give back to users and interact with the
 
 Projects which are designed to provide user benifits for our users.
 
-- ProjectID: [E.AMT.Users.Benefits.Main][CatProj Users.Benefits]
+- ProjectID: [E.AMT.Users.Benifits.Main][CatProj Users.Benifits]
 - Parent Category: [Users][Cat Users]
 - Subcategories:
 - Projects:
