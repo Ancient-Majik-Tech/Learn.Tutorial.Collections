@@ -45,7 +45,7 @@
 [Cat Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolstests
 [Cat Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolstestscs
 [Cat Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#users
-[Cat Users.Benifits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#usersbenifits
+[Cat Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#usersbenifits
 
 [CatProj Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
 [CatProj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -81,7 +81,7 @@
 [CatProj Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [CatProj Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Users.Benifits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 [Proj Company.User]:https://github.com/Ancient-Majik-Tech/Company.User.Wiki/blob/main/README.md
 
@@ -113,7 +113,7 @@
 
 [Proj Users.UserSupported]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Proj Users.RCP]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Proj Users.Shop]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Users.Benefits.Shop]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 # Realms Wiki Collections: "Realms Public Information Home" - Our Projects
 
@@ -180,7 +180,7 @@ Empty categories are there because we are working to get all projects together a
 	- [Tools.Tests][Cat Tools.Tests]
 	- [Tools.Tests.CS][Cat Tools.Tests.CS]
 	- [Users][Cat Users]
-	- [Users.Benefits][Cat Users.Benifits]
+	- [Users.Benefits][Cat Users.Benefits]
 
 
 
@@ -561,21 +561,21 @@ Projects which are designed for to help give back to users and interact with the
 - ProjectID: [E.AMT.Users.Main][CatProj Users]
 - Parent Category: None
 - Subcategories:
-	- [Benifits][Cat Users.Benifits]
+	- [Benefits][Cat Users.Benefits]
 - Projects:
 	- [Realms User Supported][Proj Users.UserSupported]
 	- [Realms User Contribute Project][Proj Users.RCP]
-	- [Realms Contribution Shop][Proj Users.Shop]
 - [Return To Top][Sec Categories]
 
-### Users.Benifits
+### Users.Benefits
 
 Projects which are designed to provide user benifits for our users.
 
-- ProjectID: [E.AMT.Users.Benifits.Main][CatProj Users.Benifits]
+- ProjectID: [E.AMT.Users.Benefits.Main][CatProj Users.Benefits]
 - Parent Category: [Users][Cat Users]
 - Subcategories:
 - Projects:
+	- [Realms Contribution Shop][Proj Users.Benefits.Shop]
 - [Return To Top][Sec Categories]
 
 

@@ -17,7 +17,7 @@
 [Sec Fixes]:[page]#fixes
 
 
-# Realms Tutorial Collections: "[Project Name]" - Changes - [version]
+# Realms Wiki Collections: "[Project Name]" - Changes - [version]
 
 Welcome for the Update page for [version] here you can learn about what happened in this release.
 
@@ -48,6 +48,7 @@ This section covers the details of this update including if it is the currently 
 [Update]
 
 - Data
+	- State Name: None
 	- [Previous][Page Change Previous]
 	- [Next][Page Change Next]
 	- Status: Finished
@@ -69,6 +70,9 @@ The following is a list of changes that effect the project handling.
 		- Removed
 	- Child Projects
 		- New
+	- Tracked Subprojects
+		- New
+		- Removed
 
 ### New Systems
 

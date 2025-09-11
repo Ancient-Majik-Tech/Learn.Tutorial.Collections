@@ -11,9 +11,9 @@
 
 [Sec ReleaseBoard]:[page]#latest-releases-board
 
-# Realms Tutorial Collections: "[Name]" - Changes - Home
+# Realms Wiki Collections: "[Name]" - Changes - Home
 
-Welcome to the Change log section of the Tutorial Collection for [name].
+Welcome to the Change log section of the Wiki Collection for [name].
 
 ## Site Index
 
