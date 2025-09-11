@@ -10,7 +10,7 @@
 [Sec Details]:[page]#system-details
 [Sec Features]:[page]#features
 
-# Realms Tutorial Collections: "[Project Name]" - Systems - [System Name]
+# Realms Wiki Collections: "[Project Name]" - Systems - [System Name]
 
 ## Site Index
 

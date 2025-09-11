@@ -7,7 +7,7 @@
 [Sec Welcome]:link
 [Sec Tuts]:link
 
-# Realms Tutorial Collection: "[Project Name]" - Learn
+# Realms Wiki Collection: "[Project Name]" - Learn
 
 ## Collect Index
 
