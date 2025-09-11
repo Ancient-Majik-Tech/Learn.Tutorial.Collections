@@ -171,6 +171,7 @@ Empty categories are there because we are working to get all projects together a
 	- [Lore.Histories][Cat Lore.Histories]
 	- [Social][Cat Social]
 	- [Staff][Cat Staff]
+	- [Teams][Cat Teams]
 	- [Theoretical][Cat Theory]
 	- [Theoretical.General][Cat Theory.General]
 	- [Theoretical.Sciences][Cat Theory.Sciences]
