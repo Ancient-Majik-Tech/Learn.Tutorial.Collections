@@ -1,20 +1,20 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 
-[Page Change Previous]:link
+[Page Change Previous]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.3.0.md
 [Page Change Next]:link
 
-[Sec Details]:[page]#details
-[Sec General]:[page]#general-changes
-[Sec Proj]:[page]#project-changes
-[Sec NewSys]:[page]#new-systems
-[Sec ChangedSys]:[page]#changed-systems
-[Sec Content]:[page]#content-changes
-[Sec Fixes]:[page]#fixes
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#details
+[Sec General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#general-changes
+[Sec Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#project-changes
+[Sec NewSys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#new-systems
+[Sec ChangedSys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#changed-systems
+[Sec Content]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#content-changes
+[Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#fixes
 
 
 # Realms Tutorial Collections: "Realms Public Information Home" - Changes - V P 0.0.4.0 Proj Recover
@@ -62,6 +62,7 @@ The following is a list of the general project changes that happend durring this
 	- Added page to mark placeholder links in our projects.
 	- Added new Template for projects page
 	- updated projects page to be more organized.
+	- Updated templates for non versioned projects
 
 ### Project Changes
 

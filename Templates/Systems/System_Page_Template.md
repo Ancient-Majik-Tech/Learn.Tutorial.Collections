@@ -59,3 +59,4 @@ Welcome to the [System Name] System's documentation page. This page is dedicated
 	- FeatureID: [FeatureID]
 	- Impliment System Version: [Implimented System Version]
 	- Last Change [Last System Version Changed]
+	- Tags
