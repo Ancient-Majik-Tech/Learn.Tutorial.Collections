@@ -2,8 +2,6 @@
 
 [Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Roadmap Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 [Sec Standards]:link#design-standards
 [Sec Details]:link#project-details
@@ -25,7 +23,6 @@ Welcome to the project documentation for [Project Name].
 - [Home][Page Home] 
 	- Project(You are here)
 	- [Learning][Page Learn Home]
-	- [Changes][Page Changes Home]
 
 ## Page Index
 
