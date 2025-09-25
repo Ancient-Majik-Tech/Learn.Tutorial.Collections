@@ -63,6 +63,7 @@ The following is a list of the general project changes that happend durring this
 	- Added new Template for projects page
 	- updated projects page to be more organized.
 	- Updated templates for non versioned projects
+	- Updated templates in prep to move them to a dedicated project for templates
 
 ### Project Changes
 

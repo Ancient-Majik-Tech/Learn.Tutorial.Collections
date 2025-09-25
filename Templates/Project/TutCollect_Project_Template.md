@@ -4,13 +4,13 @@
 [Page Learn Home]:link
 [Page Changes Home]:link
 [Page Roadmap Home]:link
-[Page Project Home]:link
+[Page Proj Home]:link
 
 [Sec Standards]:link
 [Sec Details]:link
 [Sec Layout]:link
 
-# Realms Tutorial Collections: "[Collect Name] Tutorial Collection"
+# Realms Wiki Collections: "[Collect Name] Tutorial Collection"
 
 Welcome to the project documentation for [Collect Name].
 
@@ -38,10 +38,10 @@ This feature is currently under work.
 
 - Realms Engine Tutorial Collection
 	- Tags
-		- <TutCollect=[ProjID of owner Project]>
+		- [WikiCollect][Tag WikiCollect]< [ProjID of owner Project][Page Proj Home] >
 	- Type: Tutorial Collection
-	- Project ID: E.AMT.Learn.Libs.Engine
-	- Project ID Piece: LearnEngine
+	- Project ID: [Project.Id.Parent][Proj Wiki Proj]
+	- Project ID Piece: [ProjIDPiece]
 	- [Systems][Sec Layout]
 	- Versioning Handler For
 		- None

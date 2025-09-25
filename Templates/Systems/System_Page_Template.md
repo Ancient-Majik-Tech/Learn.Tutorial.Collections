@@ -1,10 +1,10 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Sys Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Sys Home]:[ProjHome]#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
 [Sec Welcome]:[page]#welcome
 [Sec Details]:[page]#system-details
@@ -35,12 +35,12 @@ Welcome to the [System Name] System's documentation page. This page is dedicated
 ### System Details
 
 - Details
-	- Name:
-	- SystemID:
-	- IDPiece:
-	- Version:
-	- Implimented Version: [Project Version Added]
-	- Last Changed: [Last Changed Project Version]
+	- Name: [System Full Name]
+	- SystemID: [ProjectIDPiece].[SystemIDPiece]
+	- IDPiece: [SystemIDPiece]
+	- Version: V 1.0.0
+	- Implimented Version: V D 0.0.1.0
+	- Last Changed: V D 0.0.1.0
 	- Tags
 
 [System Desc]
@@ -54,9 +54,9 @@ Welcome to the [System Name] System's documentation page. This page is dedicated
 [Feature Desc]
 
 - Details
-	- Status: [Active|Planned]
+	- Status: [Active|Concept|Planned]
 	- Version: V 1.0
-	- FeatureID: [FeatureID]
-	- Impliment System Version: [Implimented System Version]
-	- Last Change [Last System Version Changed]
+	- FeatureID: [SystemIDPiece].[FeatureID]Feat
+	- Impliment System Version: V 1.0.0
+	- Last Change V 1.0.0
 	- Tags

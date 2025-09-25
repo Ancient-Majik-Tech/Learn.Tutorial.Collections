@@ -1,18 +1,20 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Page Home]:link
-[Page Project Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Sys Home]:[ProjHome]#system-layout
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Sec Welcome]:link
-[Sec Tuts]:link
+[Sec Welcome]:[page]#welcome
+[Sec Tuts]:[page]#tutorials
 
 # Realms Wiki Collection: "[Project Name]" - Learn
 
 ## Collect Index
 
 - [Home][Page Home]
-	- [Project][Page Project Home]
+	- [Project][Page Proj Home]
+		- [Systems][Page Sys Home]
 	- Learn (You are Here)
 	- [Changes][Page Changes Home]
 
