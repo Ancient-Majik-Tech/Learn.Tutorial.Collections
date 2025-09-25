@@ -11,77 +11,9 @@
 
 [Page MainProjsCollect]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/CategoriesHome.md
 
-[Cat Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#main
-[Cat AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#ai
-[Cat Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#company
-[Cat Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#engineering
-[Cat Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#engineeringcivil
-[Cat Games]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#games
-[Cat Games.Mods]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#gamesmods
-[Cat Games.Mods.PZ]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#gamesmodspz
-[Cat Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#green
-[Cat Green.Recycle]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#greenrecycle
-[Cat Learn]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learn
-[Cat Learn.Research]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearch
-[Cat Learn.Research.Field]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchfield
-[Cat Learn.Research.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchgeneral
-[Cat Learn.Research.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchsciences
-[Cat Learn.Research.Skills]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchskills
-[Cat Learn.Tutorial]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learntutorial
-[Cat Libs]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#libs
-[Cat Libs.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#libscs
-[Cat Libs.CS.UI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#libscsui
-[Cat Lore]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lore
-[Cat Lore.Common]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lorecommon
-[Cat Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lorehistories
-[Cat Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#staff
-[Cat Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#social
-[Cat Teams]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#teams
-[Cat Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoretical
-[Cat Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoreticalgeneral
-[Cat Theory.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoreticalsciences
-[Cat Tools]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#tools
-[Cat Tools.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolscs
-[Cat Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolstests
-[Cat Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolstestscs
-[Cat Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#users
-[Cat Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#usersbenifits
 
-[CatProj Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
-[CatProj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md
-[CatProj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md
-[CatProj Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Games]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Games.Mods]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Games.Mods.PZ]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Green.Recycle]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Learn]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Learn.Research]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Learn.Research.Field]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Learn.Research.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Learn.Research.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Learn.Research.Skills]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Learn.Tutorial]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Libs]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Libs.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Libs.CS.UI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Lore]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Lore.Common]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Teams]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Theory.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Tools]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Tools.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[CatProj Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
+
 
 [Proj Company.User]:https://github.com/Ancient-Majik-Tech/Company.User.Wiki/blob/main/README.md
 
@@ -143,12 +75,52 @@ We hope you will keep checking back because this page will always be expanding a
 
 Empty categories are there because we are working to get all projects together and recovering from a harddrive failture. 
 
+[Cat Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#main
+[Cat AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#ai
+[Cat Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#company
+[Cat Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experiment
+[Cat Experiment.Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experimentgreen
+[Cat Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#engineering
+[Cat Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#engineeringcivil
+[Cat Games]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#games
+[Cat Games.Mods]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#gamesmods
+[Cat Games.Mods.PZ]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#gamesmodspz
+[Cat Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#green
+[Cat Green.Recycle]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#greenrecycle
+[Cat Learn]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learn
+[Cat Learn.Research]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearch
+[Cat Learn.Research.Field]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchfield
+[Cat Learn.Research.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchgeneral
+[Cat Learn.Research.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchsciences
+[Cat Learn.Research.Skills]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learnresearchskills
+[Cat Learn.Tutorial]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#learntutorial
+[Cat Libs]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#libs
+[Cat Libs.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#libscs
+[Cat Libs.CS.UI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#libscsui
+[Cat Lore]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lore
+[Cat Lore.Common]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lorecommon
+[Cat Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#lorehistories
+[Cat Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#staff
+[Cat Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#social
+[Cat Teams]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#teams
+[Cat Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoretical
+[Cat Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoreticalgeneral
+[Cat Theory.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#theoreticalsciences
+[Cat Tools]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#tools
+[Cat Tools.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolscs
+[Cat Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolstests
+[Cat Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#toolstestscs
+[Cat Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#users
+[Cat Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#usersbenifits
+
 ### Categories
 
 - Our Projects
 	- [Main][Cat Main]
 	- [AI][Cat AI]
 	- [Company][Cat Company]
+	- [Experiment][Cat Experiment]
+	- [Experiment.Green][Cat Experiment.Green]
 	- [Engineering][Cat Engineer]
 	- [Engineering.Civil][Cat Engineer.Civil]
 	- [Games][Cat Games]
@@ -183,6 +155,44 @@ Empty categories are there because we are working to get all projects together a
 	- [Users.Benefits][Cat Users.Benefits]
 
 
+[CatProj Main]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/Project/ProjectHome.md
+[CatProj AI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/AI/ProjectHome.md
+[CatProj Company]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Company/ProjectHome.md
+[CatProj Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/ProjectHome.md
+[CatProj Experiment.Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.MainCollect/blob/main/MainProjects/Experiment/Green/ProjectHome.md
+[CatProj Engineer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Engineer.Civil]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Games]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Games.Mods]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Games.Mods.PZ]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Green.Recycle]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.Field]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Research.Skills]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Learn.Tutorial]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Libs]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Libs.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Libs.CS.UI]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Lore]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Lore.Common]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Lore.Histories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Social]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Staff]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Teams]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Theory]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Theory.General]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Theory.Sciences]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools.Tests]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Tools.Tests.CS]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Users]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[CatProj Users.Benefits]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
 
 ### Main
 
@@ -204,6 +214,7 @@ Projects which revolve around the assembling and design of Artifical Intelligenc
 - Projects:
 - [Return To Top][Sec Categories]
 
+
 ### Company
 
 Projects designed around the functionality of the company as a whole.
@@ -213,6 +224,27 @@ Projects designed around the functionality of the company as a whole.
 - Subcategories:
 - Projects:
 	- [Ancient Majik Technologies LLC][Proj Company.User]
+- [Return To Top][Sec Categories]
+
+### Experiment
+
+Projects which are ongoing experiments for our own independent knowledge and useage.
+
+- ProjectID: [E.AMT.Experiment.Main][CatProj Experiment]
+- Parent Category: None
+- Subcategories:
+	- [Green][Cat Experiment.Green]
+- Projects:
+- [Return To Top][Sec Categories]
+
+### Experiment.Green
+
+Projects which are ongoing experiments into ecofriendly options.
+
+- ProjectID: [E.AMT.Experiment.Green.Main][CatProj Experiment.Green]
+- Parent Category: [Experiment][Cat Experiment]
+- Subcategories:
+- Projects:
 - [Return To Top][Sec Categories]
 
 ### Engineering

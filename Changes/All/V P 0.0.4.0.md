@@ -17,6 +17,9 @@
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#fixes
 
 
+[ProjCat Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experiment
+[ProjCat Experiment.Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experimentgreen
+
 # Realms Tutorial Collections: "Realms Public Information Home" - Changes - V P 0.0.4.0 Proj Recover
 
 Welcome for the Update page for V P 0.0.4.0 here you can learn about what happened in this release.
@@ -97,6 +100,9 @@ The following is a list of the new content added to the project and if the given
 	- New
 		- Design Prototypes
 		- Loadable
+		- Project Category
+			- [Experiment][ProjCat Experiment]
+			- [Experiment.Green][ProjCat Experiment.Green]
 	- Updated
 	- Removed
 
@@ -105,3 +111,4 @@ The following is a list of the new content added to the project and if the given
 The following are fixes across this project and any subprojects which are tracked under this given project. Including to Content and wiki subprojects.
 
 - Fixes
+
