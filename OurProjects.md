@@ -17,6 +17,8 @@
 
 [Proj Company.User]:https://github.com/Ancient-Majik-Tech/Company.User.Wiki/blob/main/README.md
 
+[Proj Experiment.Green.Biorecycle]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md
+
 [Proj Games.Mods.PZ.Gaia]:https://github.com/Ancient-Majik-Tech/Games.Mods.PZ.Gaia.Wiki/blob/main/Project/ProjectHome.md
 
 [Proj Learn.Research.Sciences.QuantumPhysics]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -245,6 +247,7 @@ Projects which are ongoing experiments into ecofriendly options.
 - Parent Category: [Experiment][Cat Experiment]
 - Subcategories:
 - Projects:
+	- [Experimental Recycle Ecosystem][Proj Experiment.Green.Biorecycle]
 - [Return To Top][Sec Categories]
 
 ### Engineering

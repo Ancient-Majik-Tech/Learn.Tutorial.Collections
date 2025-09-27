@@ -16,6 +16,9 @@
 [Sec Content]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#content-changes
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/All/V%20P%200.0.4.0.md#fixes
 
+[Proj Company.User]:https://github.com/Ancient-Majik-Tech/Company.User.Wiki/blob/main/README.md
+
+[Proj Experiment.Green.Biorecycle]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md
 
 [ProjCat Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experiment
 [ProjCat Experiment.Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experimentgreen
@@ -64,9 +67,11 @@ The following is a list of the general project changes that happend durring this
 	- Changed name of project to Realms Public Information Home
 	- Added page to mark placeholder links in our projects.
 	- Added new Template for projects page
-	- updated projects page to be more organized.
+	- Updated projects page to be more organized.
 	- Updated templates for non versioned projects
 	- Updated templates in prep to move them to a dedicated project for templates
+	- Added Project [E.AMT.Company.User][Proj Company.User]
+	- Added Project [E.AMT.Experiment.Green.Biorecycle][Proj Experiment.Green.Biorecycle]
 
 ### Project Changes
 
