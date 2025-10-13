@@ -23,6 +23,8 @@
 [ProjCat Experiment]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experiment
 [ProjCat Experiment.Green]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/OurProjects.md#experimentgreen
 
+[DL Design DL]:link
+
 # Realms Tutorial Collections: "Realms Public Information Home" - Changes - V P 0.0.4.0 Proj Recover
 
 Welcome for the Update page for V P 0.0.4.0 here you can learn about what happened in this release.
@@ -103,7 +105,8 @@ The following is a list of the new content added to the project and if the given
 
 - Content
 	- New
-		- Design Prototypes
+		- Design Layouts
+			- [Design Layouts Concept][DL Design DL]
 		- Loadable
 		- Project Category
 			- [Experiment][ProjCat Experiment]

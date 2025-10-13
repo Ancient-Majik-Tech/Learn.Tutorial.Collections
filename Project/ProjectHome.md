@@ -23,6 +23,10 @@
 [Sys Templates]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Templates.md
 [Sys Document]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Systems/Document.md
 
+[Team Management]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Social Docu]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Proj Design]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
 # Realms Tutorial Collections: "Realms Public Information Home" - Project
 
 Welcome to the project documentation for Realms Tutorial Collections.
@@ -63,6 +67,12 @@ This Page is designed to be this projects documentation to provide a more techni
 	- [Systems][Sec Layout]
 	- Versioning Handler For
 		- None
+	- Team Access:
+		- [E.AMT.Teams.Management][Team Management]< Full >
+		- [E.AMT.Teams.Social.Docu][Team Social Docu]< Edit >
+		- [E.AMT.Teams.Projects.Design][Team Proj Design]< Edit >
+	- Owner:
+		- E.AMT
 
 Realms Tutorial Collections is a [Main][Proj Tag Main] type [Realms Project][DL Proj Proj] used to provide a clean and easy to use set of design patterns, tutorials and Documentation to provide users with as much information as possible while providing it all in small chunks meant to help those with the motivation to learn all the information they could ever need.
 
