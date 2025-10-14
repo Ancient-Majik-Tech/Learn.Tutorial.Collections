@@ -74,6 +74,7 @@ The following is a list of the general project changes that happend durring this
 	- Updated templates in prep to move them to a dedicated project for templates
 	- Added Project [E.AMT.Company.User][Proj Company.User]
 	- Added Project [E.AMT.Experiment.Green.Biorecycle][Proj Experiment.Green.Biorecycle]
+	- Outlined Design Layouts for Tagging and versioning.
 
 ### Project Changes
 
@@ -107,6 +108,7 @@ The following is a list of the new content added to the project and if the given
 	- New
 		- Design Layouts
 			- [Design Layouts Concept][DL Design DL]
+			- [Tri-Level Tagging][DL Proj TriLevel]
 		- Loadable
 		- Project Category
 			- [Experiment][ProjCat Experiment]

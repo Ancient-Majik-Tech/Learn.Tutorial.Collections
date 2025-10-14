@@ -42,9 +42,7 @@
 
 ### Design Layout Details
 
-This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V 1.0).
-
-This design layout is designed to help understand the point of Design Layouts as it concerns our company.
+This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V 1.1).
 
 - Details
 	- Layout Category: Design
@@ -56,6 +54,8 @@ This design layout is designed to help understand the point of Design Layouts as
 	- Parent Layout: None
 	- Sublayouts:
 		- None
+
+This design layout is designed to help understand the point of Design Layouts as it concerns our company.
 
 ### Required Knowledge and Tools
 

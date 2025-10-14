@@ -49,16 +49,26 @@ Welcome to the Design Layouts subsection of the [Learning][Page Learn Home] sect
 	- Coding
 		- [Realms C with OOP][DL Coding COOP]
 	- Design
+		- [Design Layout][DL Design DL]
 		- [Continual Development][DL Design Continual]
+		- [Tri-Level Tagging][DL Design TriTag]
 		- [Versioning][DL Design Versions]
 	- Docu
 	- Projects
 		- [Realms Project][DL Proj Proj]
+	- Tags
+		- [Project Tags][DL Tags Proj]
+		- [System Tags][DL Tags Sys]
+		- [Feature Tags][DL Tags Feat]
 	- Third Party
 		- [Third Party Content][DL 3RDParty Content]
 	- User
 		- [Realms Users][DL User User]
 		- [Realms Contributions System][DL User Contribute]
 		- [Realms Contribute Shop][DL User Shop]
+	- Versioning
+		- [Project Version][DL Vers Proj]
+		- [System Version][DL Vers Sys]
+		- [Data Version][DL Vers Data]
 
 	
