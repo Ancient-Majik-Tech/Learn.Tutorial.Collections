@@ -1,19 +1,23 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/DesignLayout_DL.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Sys Home]:[ProjHome]#system-layout
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page DL Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md
 
-[Sec Details]:link
-[Sec Knowledge]:link
-[Sec Next]:link
-[Sec Materials]:link
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/DesignLayout_DL.md#design-layout-details
+[Sec Knowledge]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/DesignLayout_DL.md#required-knowledge-and-tools
+[Sec Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/DesignLayout_DL.md#whats-next
+[Sec Materials]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/DesignLayout_DL.md#additional-materials
 
+[Sec What]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/DesignLayout_DL.md#what-is-a-design-layout
+[Sec Why]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Design/DesignLayout_DL.md#why-design-layouts
 
-[DL Docu DL]:link
+[DL Docu DL]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
+[DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
 
 # Realms Wiki Collections: "Realms Public Information Home" - Design Layouts - Design - Design Layout Concept Design Layout
 
@@ -42,7 +46,7 @@
 
 ### Design Layout Details
 
-This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V 1.1).
+This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V 1.0).
 
 - Details
 	- Layout Category: Design

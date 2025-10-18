@@ -1,29 +1,30 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md
 
 [Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md#system-layout
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
-[Page Project Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page DL Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md
 
-[Sec Details]:[Page]#design-layout-details
-[Sec Knowledge]:[Page]#required-knowledge-and-tools
-[Sec Next]:[Page]#whats-next
-[Sec Materials]:[Page]#additional-materials
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md#design-layout-details
+[Sec Knowledge]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md#required-knowledge-and-tools
+[Sec Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md#whats-next
+[Sec Materials]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md#additional-materials
 
-[Sec What]:[page]#what-are-tags
-[Sec Why]:[Page]#why-use-tags
-[Sec TriLevel]:[Page]#project-effeciency-through-tri-level-tagging
+[Sec What]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md#what-are-tags
+[Sec Why]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md#why-use-tags
+[Sec TriLevel]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/TriTag_DL.md#project-effeciency-through-tri-level-tagging
 
 [DL Docu DL]:link
 
-[DL Tags Proj]:link
-[DL Tags Sys]:link
-[DL Tags Feat]:link
+[DL Tags Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/ProjectTags_DL.md
+[DL Tags Sys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/SystemTags_DL.md
+[DL Tags Feat]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md
 
-[DL Proj Proj]:link
-[DL Proj Sys]:link
-[DL Proj Feat]:link
+[DL Proj Proj]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/RealmsProject_DL.md
+[DL Proj Sys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/LogicSystem_DL.md
+[DL Proj Feat]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemFeat_DL.md
 
 
 
