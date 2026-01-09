@@ -43,7 +43,7 @@
 
 This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V 1.0).
 
-[Description]
+This design layout is designed to help users understand how to use our project tagging system as part of our [Tri Level Tagging][DL Design TriLevelTag].
 
 - Details
 	- Full Name: Project Level Tags
@@ -68,8 +68,73 @@ This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V
 ### Tag Categories
 
 - Categories
+	- [Project Handling][Cat ProjHandle]
 	- [Project Info Hosting][Cat InfoHost]
 	- [Loading Declare][Cat Load]
+
+### Project Handling
+
+The following sets of tags for identifying given project handling which alighns outside standard.
+
+- Tags
+	- [NonVersioned][Tag Proj NonVer]
+	- [Versioner][Tag Proj Versioner]
+	- [PublicWiki][Tag Proj PublicWiki]
+
+#### Tag: NonVersioned
+
+This project tag is used to mark non versioning for a given project. Designed to provide a way to make subprojects easier to handle.
+
+|Paramaters|Data Type|Modifiers|Desc|
+|:---|:---|:---|:---|
+|None||||
+
+- Info
+	- Name: Project NonVersioned Identifier Tag
+	- Version: V 1.0
+- Definer:
+	- ProjectID: [ProjID]
+	- SystemID: [SystemID]
+	- FeatureID: [FeatureID]
+- [Return to Categories][Sec Categories]
+- [Return To Parent][Cat [CatName]]
+
+#### Tag: Versioner
+
+This tag is used along with [NonVersioned][Tag Proj NonVer] to mark the given project as the versioning handler for a project.
+
+|Paramaters|Data Type|Modifiers|Desc|
+|:---|:---|:---|:---|
+|VersionerID|( String or <Wiki:linkToProjPage>)|Required|The project ID of the project that handles this one|
+|ChangeLogLink|(<Wiki:LinkToProjChanges>)|OnlyWiki|The link to let users use wiki better|
+
+- Info
+	- Name: Project Versioner Identification Tag
+	- Version: V 1.0
+- Definer:
+	- ProjectID: [ProjID]
+	- SystemID: [SystemID]
+	- FeatureID: [FeatureID]
+- [Return to Categories][Sec Categories]
+- [Return To Parent][Cat [CatName]]
+
+#### Tag: PublicWiki
+
+This tag is used to mark a given project as being a public Wiki hoster, a simple project to provide public documentation.
+
+|Paramaters|Data Type|Modifiers|Desc|
+|:---|:---|:---|:---|
+|None||||
+
+- Info
+	- Name: Public Wiki Marker Tag
+	- Version: V 1.0
+- Definer:
+	- ProjectID: [ProjID]
+	- SystemID: [SystemID]
+	- FeatureID: [FeatureID]
+- [Return to Categories][Sec Categories]
+- [Return To Parent][Cat [CatName]]
 
 ### Project Info Hosting
 
@@ -78,7 +143,7 @@ The following sets of tags for user and or entity info hosting which will be use
 |Hosting Type|Short Desc|
 |:---|:---|
 |Realms User Info Hosting|Used to use a project to help users understand each other by providing ways to bind info to given user.|
-|Realms Entity User Info Hosting|Used to help users to understand about the entities that are registered Realms Entity User to project to host the infomation.
+|Realms Entity User Info Hosting|Used to help users to understand about the entities that are registered Realms Entity User to project to host the infomation.1
 
 
 #### Realms Entity User Info Hosting

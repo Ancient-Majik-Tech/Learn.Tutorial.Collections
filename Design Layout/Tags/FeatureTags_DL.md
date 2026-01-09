@@ -1,16 +1,16 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Sys Home]:[ProjHome]#system-layout
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/ProjectHome.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Changes/ChangeLog.md
 [Page DL Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/DesignLayouts_Home.md
 
-[Sec Details]:[Page]#design-layout-details
-[Sec Knowledge]:[Page]#required-knowledge-and-tools
-[Sec Next]:[Page]#whats-next
-[Sec Materials]:[Page]#additional-materials
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#design-layout-details
+[Sec Knowledge]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#required-knowledge-and-tools
+[Sec Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#whats-next
+[Sec Materials]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#additional-materials
 
 
 [DL Docu DL]:link
@@ -33,11 +33,13 @@
 - Page
 	- [Design Layout Details][Sec Details]
 	- [Required Knowledge and Tools][Sec Knowledge]
-	- [Layout Extras]
+	- [What is a Feature tag][Sec What]
+	- [Tag Categories][Sec Cat]
 	- [Whats Next][Sec Next]
 	- [Additional Materials][Sec Materials]
 
-
+[Sec What]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#what-is-a-feature-tag
+[Sec Categories]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#tag-categories
 
 ### Design Layout Details
 
@@ -48,23 +50,30 @@ This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V
 	- Layout Category: Tags
 	- Version: V 1.0
 	- Owner
-		- Project: [ProjectID]
-		- System: [SystemID]
-		- Feature: [FeatureID]
-	- Parent Layout: 
+		- Project: [E.AMT.Company.User][Proj Company.User]
+		- System: Company.DyProjTagging
+		- Feature: DyProjTagging.FeatTagDefBindFeat
+	- Parent Layout: [Tri-Level Tagging][DL Proj TriLevel]
 	- Sublayouts:
 
-[Description]
+This design layout is designed to make the process of tagging project documentation easier by providing info for the tags.
+
+[DL Proj TriLevel]:link
+
+[Proj Company.User]:link
 
 ### Required Knowledge and Tools
 
 - Requirements
 	- Knowledge
 		- (American) English
+		- [Tri-Level Tagging][DL Proj TriLevel]
 	- Tools
 		- None
 
 #### What is a Feature tag
+
+A Feature tag is used to mark data at the Feature Level of a project. This is used to provide clearer bindings and placement of features within systems as data is bound to feature levels.
 
 #### Tag Categories
 
@@ -74,71 +83,98 @@ This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V
 	- [Concept Registration And Linking][Sec ConceptRegisters]
 	- [Design Layout Registration][Sec DLRegisters]
 	- [Team Defining][Sec TeamDefining]
+	- [Project Hosting and Linking][Sec ProjHosting]
+	- [Build Release Definition][Sec BuildReleaseDef]
+	- [Project Type Defining][Sec ProjTypeDef]
+	
+[Sec TagDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#tag-defining
+[Sec DefTags]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#default-tags-binding
+[Sec ConceptRegisters]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#concept-registration-and-linking
+[Sec DLRegisters]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#design-layout-registration
+[Sec TeamDefining]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#team-defining
+[Sec ProjHosting]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#project-hosting-and-linking
+[Sec BuildReleaseDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#build-release-defining
+[Sec ProjTypeDef]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#project-type-defining
 
 
 #### Tag Defining
+
+This category is used for defining new project, system and feature tags for use by other projects.
 
 - Tags
 	- [DefineProjTag][Tag Feat DefineProjTag]
 	- [DefineSysTag][Tag Feat DefineSysTag]
 	- [DefineFeatTag][Tag Feat DefineFeatTag]
 
+[Tag Feat DefineProjTag]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#tag-defineprojtag
+[Tag Feat DefineSysTag]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#tag-defineprojtag
+[Tag Feat DefineFeatTag]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Tags/FeatureTags_DL.md#tag-defineprojtag
+
 #### Tag: DefineProjTag
 
-[Tag Desc]
+This tag is used to bind a new project tag to a given feature.
 
 |Paramaters|Data Type|Modifiers|Desc|
 |:---|:---|:---|:---|
+|TagName|String|Required|The name of the given tag (nospaces)|
+|TagArguments|[Tag Param Definition][DL Tags ParamDef]|MultiMin0|The argument definitions of the given tag that can handle|
 
 - Info
-	- Name: [Tag Full Name]
+	- Name: Project Level Tag Useage Definer
 	- Version: V 1.0
-	- Required Proj Tag: [Tag]
-	- Required Sys Tag: [Tag]
+	- Is Default: True
+	- Required Proj Tag: [TagDefinitions][Tag Proj TagDefs]
+	- Required Sys Tag: [TagDefiner][Tag Sys TagDefiner]
 - Definer:
-	- ProjectID: [ProjID]
-	- SystemID: [SystemID]
-	- FeatureID: [FeatureID]
+	- ProjectID: [E.AMT.Company.User][Proj Company.User]
+	- SystemID: Company.DyProjTagging
+	- FeatureID: DyProjTagging.ProjTagDefBindFeat
 - [Return to Categories][Sec Categories]
-- [Return To Parent][Cat [CatName]]
+- [Return To Parent][Sec TagDef]
 
 #### Tag: DefineSysTag
 
-[Tag Desc]
+This tag is used to bind a new System tag to a given feature.
 
 |Paramaters|Data Type|Modifiers|Desc|
 |:---|:---|:---|:---|
+|TagName|String|Required|The name of the given tag (nospaces)|
+|TagArguments|[Tag Param Definition][DL Tags ParamDef]|MultiMin0|The argument definitions of the given tag that can handle|
 
 - Info
-	- Name: [Tag Full Name]
+	- Name: System Level Tag Useage Definer
 	- Version: V 1.0
-	- Required Proj Tag: [Tag]
-	- Required Sys Tag: [Tag]
+	- Is Default: True
+	- Required Proj Tag: [TagDefinitions][Tag Proj TagDefs]
+	- Required Sys Tag: [TagDefiner][Tag Sys TagDefiner]
 - Definer:
-	- ProjectID: [ProjID]
-	- SystemID: [SystemID]
-	- FeatureID: [FeatureID]
+	- ProjectID: [E.AMT.Company.User][Proj Company.User]
+	- SystemID: Company.DyProjTagging
+	- FeatureID: DyProjTagging.SysTagDefBindFeat
 - [Return to Categories][Sec Categories]
-- [Return To Parent][Cat [CatName]]
+- [Return To Parent][Sec TagDef]
 
 #### Tag: DefineFeatTag
 
-[Tag Desc]
+This tag is used to bind a new Feature tag to a given feature.
 
 |Paramaters|Data Type|Modifiers|Desc|
 |:---|:---|:---|:---|
+|TagName|String|Required|The name of the given tag (nospaces)|
+|TagArguments|[Tag Param Definition][DL Tags ParamDef]|MultiMin0|The argument definitions of the given tag that can handle|
 
 - Info
-	- Name: [Tag Full Name]
+	- Name: Feature Level Tag Useage Definer
 	- Version: V 1.0
-	- Required Proj Tag: [Tag]
-	- Required Sys Tag: [Tag]
+	- Is Default: True
+	- Required Proj Tag: [TagDefinitions][Tag Proj TagDefs]
+	- Required Sys Tag: [TagDefiner][Tag Sys TagDefiner]
 - Definer:
-	- ProjectID: [ProjID]
-	- SystemID: [SystemID]
-	- FeatureID: [FeatureID]
+	- ProjectID: [E.AMT.Company.User][Proj Company.User]
+	- SystemID: Company.DyProjTagging
+	- FeatureID: DyProjTagging.FeatTagDefBindFeat
 - [Return to Categories][Sec Categories]
-- [Return To Parent][Cat [CatName]]
+- [Return To Parent][Sec TagDef]
 
 #### Default Tags Binding
 
@@ -235,7 +271,7 @@ This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V
 
 
 
-#### Teams
+#### Team Defining
 
 - Subcategories
 	- [User Groups Defining][Sec UserGroups]
@@ -401,9 +437,6 @@ This Design Layout conforms to [Design Layout Docu][DL Docu DL] Design Layout (V
 	- FeatureID: [FeatureID]
 - [Return to Categories][Sec Categories]
 - [Return To Parent][Cat [CatName]]
-
-
---------------------------------
 
 ### Whats Next
 

@@ -1,0 +1,26 @@
+{
+	"Version": "V D 0.0.5.0",
+	"Release": "V P 1.0.0.0",
+	"ProjectID": "E.AMT.Learn.Tutorials.Main",
+	"Authors": [
+		"U.FueledByOCHD"
+	],
+	"Changes": [
+		{
+			"Type": "General",
+			"ProjectID": "E.AMT.Learn.Tutorials.Main",
+			"Desc": "Started conversion to data project Data",
+			"Authors": [
+				"U.FueledByOCHD"
+			]
+		},
+		{
+			"Type": "NewContent",
+			"ProjectID": "E.AMT.Learn.Tutorials.Main",
+			"ID": "DesignLayout.Project.RealmsProject",
+			"Authors": [
+				"U.FueledByOCHD"
+			]
+		}
+	]
+}
